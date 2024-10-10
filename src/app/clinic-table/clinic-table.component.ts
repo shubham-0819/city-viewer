@@ -21,9 +21,9 @@ export class ClinicTableComponent implements OnInit, OnChanges {
   @ViewChild('clinicGrid') grid!: AgGridAngular;
   @Input() city: string = 'Dehradun';
 
-  isPhotoViewerOpen: boolean = true;
-
+  isPhotoViewerOpen: boolean = false;
   activeClinicPhotos: string[] = [];
+  selectedCity: any;
 
   clinicList: any[] = [];
   colDefs: ColDef[] = [
@@ -35,11 +35,13 @@ export class ClinicTableComponent implements OnInit, OnChanges {
     {
       field: 'rating',
       filter: true,
+      width: 100,
     },
 
     {
       field: 'user_ratings_total',
       filter: true,
+      width: 100,
     },
 
     {
@@ -111,16 +113,14 @@ export class ClinicTableComponent implements OnInit, OnChanges {
 
   openPhotoViewer(context: any) {
     this.isPhotoViewerOpen = true;
-    console.log("Open Photo Viewer for ", context);
+    this.selectedCity = context.data;
     const photosList = context.data.photos;
-    // console.log("Photos List", photosList);
     const photos = photosList.map((photo: any) => {
       const url = this.createPhotoUrl(photo.photo_reference);
       return url;
     });
 
     this.activeClinicPhotos = photos;
-    console.log("Active Clinic Photos", this.activeClinicPhotos);
 
   }
 

@@ -6,14 +6,10 @@
       </button>
       <span>DIP </span>
     </div>
-    <!-- <form class="access-token-form">
-      <mat-form-field appearance="outline" class="w-full">
-        <mat-label>Access Token</mat-label>
-        <input matInput  placeholder="" value="">
-      </mat-form-field>
-    </form> -->
 
-    <input #token_input [(ngModel)]="token" (change)="updateToken()" type="text">
+    <input
+      class="text-sm font-normal p-1 rounded" 
+      #token_input [(ngModel)]="token" (ngModelChange)="updateToken()" type="text" placeholder="Enter Access token">
   </mat-toolbar>
 
   <mat-drawer-container class="flex-1" autosize>

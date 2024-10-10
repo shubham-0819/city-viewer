@@ -52,11 +52,10 @@ export class AppComponent {
 
   constructor() {
     this.loadCityList();
-    localStorage.setItem('API_KEY', 'fkjfk');
+    localStorage.setItem('API_KEY', '');
   }
 
   loadCityList() {
-    //load city from assets folder
     fetch('assets/data/city-list.json')
       .then((response) => {
         return response.json();
@@ -68,30 +67,12 @@ export class AppComponent {
       });
   }
 
-  loadClinicList() {
-    //load clinic list from assets folder
-    fetch('assets/data/Dehradun.json')
-      .then((response) => {
-        return response.json();
-      })
-      .then((data) => {
-        // this.clinicList = data.clinics;
-        // console.log(this.clinicList);
-      });
-  }
-
   viewCity(city:any){
     this.selectedCity = city.name;
   }
 
   updateToken() {
-    console.log(this.tokenInput.value);
-    console.log(this.token);
-
-    // console.log(event.target.value);
-    // this.tokenInput.value = 'AIzaSyAqCn2STx-yE-oM-0FqKXP0tL2E11nEzw0';
-
-    // localStorage.setItem('API_KEY', event.target.value);
+    localStorage.setItem('API_KEY', this.token);
   }
 }
 
