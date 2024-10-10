@@ -1,0 +1,100 @@
+{
+  "cities": [
+    {
+      "name": "dehradun",
+      "filename": "dehradun"
+    },
+    {
+      "name": "delhi",
+      "filename": "delhi"
+    },
+    {
+      "name": "mumbai",
+      "filename": "mumbai"
+    },
+    {
+      "name": "bangalore",
+      "filename": "bangalore"
+    },
+    {
+      "name": "chennai",
+      "filename": "chennai"
+    },
+    {
+      "name": "kolkata",
+      "filename": "kolkata"
+    },
+    {
+      "name": "hyderabad",
+      "filename": "hyderabad"
+    },
+    {
+      "name": "pune",
+      "filename": "pune"
+    },
+    {
+      "name": "ahmedabad",
+      "filename": "ahmedabad"
+    },
+    {
+      "name": "jaipur",
+      "filename": "jaipur"
+    },
+    {
+      "name": "lucknow",
+      "filename": "lucknow"
+    },
+    {
+      "name": "kanpur",
+      "filename": "kanpur"
+    },
+    {
+      "name": "nagpur",
+      "filename": "nagpur"
+    },
+    {
+      "name": "patna",
+      "filename": "patna"
+    },
+    {
+      "name": "indore",
+      "filename": "indore"
+    },
+    {
+      "name": "thane",
+      "filename": "thane"
+    },
+    {
+      "name": "bhopal",
+      "filename": "bhopal"
+    },
+    {
+      "name": "visakhapatnam",
+      "filename": "visakhapatnam"
+    },
+    {
+      "name": "vadodara",
+      "filename": "vadodara"
+    },
+    {
+      "name": "firozabad",
+      "filename": "firozabad"
+    },
+    {
+      "name": "ludhiana",
+      "filename": "ludhiana"
+    },
+    {
+      "name": "rajkot",
+      "filename": "rajkot"
+    },
+    {
+      "name": "agra",
+      "filename": "agra"
+    },
+    {
+      "name": "nashik",
+      "filename": "nashik"
+    }
+  ]
+}
