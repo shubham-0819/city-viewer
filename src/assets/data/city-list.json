@@ -79,6 +79,31 @@
     {
       "name": "vijayawada",
       "filename": "vijayawada"
+    },
+
+    {
+      "name": "agra",
+      "filename": "agra"
+    },
+
+    {
+      "name": "bokaro",
+      "filename": "bokaro"
+    },
+
+    {
+      "name": "dhanbad",
+      "filename": "dhanbad"
+    },
+
+    {
+      "name": "gorakhpur",
+      "filename": "gorakhpur"
+    },
+
+    {
+      "name": "patna",
+      "filename": "patna"
     }
   ]
 }
