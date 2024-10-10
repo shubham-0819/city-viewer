@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component, ViewChild } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
 import { CommonModule } from '@angular/common';
 
@@ -13,6 +13,7 @@ import {
 import { MatIconModule } from '@angular/material/icon';
 import { CityDetailComponent } from './city-detail/city-detail.component';
 import { ClinicTableComponent } from './clinic-table/clinic-table.component';
+import { FormsModule } from '@angular/forms';
 
 const materialComponents = [
   MatToolbarModule,
@@ -31,6 +32,7 @@ const materialComponents = [
     CommonModule,
     CityDetailComponent,
     ClinicTableComponent,
+    FormsModule,
      ...materialComponents
   ],
   providers: [],
@@ -41,11 +43,16 @@ export class AppComponent {
   showFiller = false;
   title = 'city-viewer';
 
-  
+  selectedCity: string = '';
   cityList: ICity[] = [];
+
+  @ViewChild('token_input') tokenInput!: HTMLInputElement;
+
+  token: string = '';
 
   constructor() {
     this.loadCityList();
+    localStorage.setItem('API_KEY', 'fkjfk');
   }
 
   loadCityList() {
@@ -57,7 +64,7 @@ export class AppComponent {
       .then((data) => {
         this.cityList = data.cities;
         console.log(this.cityList);
-        
+
       });
   }
 
@@ -70,13 +77,21 @@ export class AppComponent {
       .then((data) => {
         // this.clinicList = data.clinics;
         // console.log(this.clinicList);
-      });   
+      });
   }
 
   viewCity(city:any){
-    console.log(city);
-    
-    //navigate to city view
+    this.selectedCity = city.name;
+  }
+
+  updateToken() {
+    console.log(this.tokenInput.value);
+    console.log(this.token);
+
+    // console.log(event.target.value);
+    // this.tokenInput.value = 'AIzaSyAqCn2STx-yE-oM-0FqKXP0tL2E11nEzw0';
+
+    // localStorage.setItem('API_KEY', event.target.value);
   }
 }
 

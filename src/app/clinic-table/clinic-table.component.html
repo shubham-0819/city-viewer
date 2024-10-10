@@ -1,0 +1,15 @@
+<ag-grid-angular #clinicGrid class="ag-theme-quartz w-full h-full" [rowData]="clinicList" [columnDefs]="colDefs" />
+
+<div *ngIf="isPhotoViewerOpen" class="z-10 photo-viewer flex flex-col absolute top-0 right-0 h-full w-80 bg-slate-100 ">
+  <div class="p-2 header flex flex-row justify-between items-center w-full h-12 bg-white">
+    <span>Photos</span>
+    <button class="p-2" (click)="closePhotoViewer()">
+      <mat-icon>close</mat-icon>
+    </button>
+  </div>
+  <div class="photo-list flex-1 flex flex-col overflow-auto">
+    <img *ngFor="let photo of activeClinicPhotos" (click)="viewPhoto(photo)"
+      class="photo-item flex flex-col items-center justify-center w-full bg-cover bg-center"
+      [src]="photo" />
+  </div>
+</div>

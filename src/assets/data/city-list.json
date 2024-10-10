@@ -1,100 +1,84 @@
 {
   "cities": [
     {
+      "name": "amritsar",
+      "filename": "amritsar"
+    },
+    {
+      "name": "aurangabad",
+      "filename": "aurangabad"
+    },
+    {
       "name": "dehradun",
       "filename": "dehradun"
     },
     {
-      "name": "delhi",
-      "filename": "delhi"
+      "name": "goa",
+      "filename": "goa"
     },
     {
-      "name": "mumbai",
-      "filename": "mumbai"
+      "name": "guwahati",
+      "filename": "guwahati"
     },
     {
-      "name": "bangalore",
-      "filename": "bangalore"
+      "name": "jalandhar",
+      "filename": "jalandhar"
     },
     {
-      "name": "chennai",
-      "filename": "chennai"
+      "name": "jodhpur",
+      "filename": "jodhpur"
     },
     {
-      "name": "kolkata",
-      "filename": "kolkata"
+      "name": "madurai",
+      "filename": "madurai"
     },
     {
-      "name": "hyderabad",
-      "filename": "hyderabad"
+      "name": "mangaluru",
+      "filename": "mangaluru"
     },
     {
-      "name": "pune",
-      "filename": "pune"
-    },
-    {
-      "name": "ahmedabad",
-      "filename": "ahmedabad"
-    },
-    {
-      "name": "jaipur",
-      "filename": "jaipur"
-    },
-    {
-      "name": "lucknow",
-      "filename": "lucknow"
-    },
-    {
-      "name": "kanpur",
-      "filename": "kanpur"
-    },
-    {
-      "name": "nagpur",
-      "filename": "nagpur"
-    },
-    {
-      "name": "patna",
-      "filename": "patna"
-    },
-    {
-      "name": "indore",
-      "filename": "indore"
-    },
-    {
-      "name": "thane",
-      "filename": "thane"
-    },
-    {
-      "name": "bhopal",
-      "filename": "bhopal"
-    },
-    {
-      "name": "visakhapatnam",
-      "filename": "visakhapatnam"
-    },
-    {
-      "name": "vadodara",
-      "filename": "vadodara"
-    },
-    {
-      "name": "firozabad",
-      "filename": "firozabad"
-    },
-    {
-      "name": "ludhiana",
-      "filename": "ludhiana"
-    },
-    {
-      "name": "rajkot",
-      "filename": "rajkot"
-    },
-    {
-      "name": "agra",
-      "filename": "agra"
+      "name": "mysuru",
+      "filename": "mysuru"
     },
     {
       "name": "nashik",
       "filename": "nashik"
+    },
+    {
+      "name": "raipur",
+      "filename": "raipur"
+    },
+    {
+      "name": "ranchi",
+      "filename": "ranchi"
+    },
+    {
+      "name": "surat",
+      "filename": "surat"
+    },
+    {
+      "name": "shimla",
+      "filename": "shimla"
+    },
+    {
+      "name": "thiruvananthapuram",
+      "filename": "thiruvananthapuram"
+    },
+    {
+      "name": "tirupati",
+      "filename": "tirupati"
+    },
+    {
+      "name": "udaipur",
+      "filename": "udaipur"
+    },
+    {
+      "name": "varanasi",
+      "filename": "varanasi"
+    },
+    {
+      "name": "vijayawada",
+      "filename": "vijayawada"
     }
   ]
 }
