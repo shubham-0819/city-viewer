@@ -1,0 +1,2801 @@
+[
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 27.20222,
+        "lng": 78.0033436
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 27.2036874802915,
+          "lng": 78.0047526302915
+        },
+        "southwest": {
+          "lat": 27.2009895197085,
+          "lng": 78.0020546697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. Ajay Dental Clinic & Research Center",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 1651,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117555117918646562360\">Dr. Ajay Dental Clinic &amp; Research Center</a>"
+        ],
+        "photo_reference": "AdCG2DMJh1tx966UByJPf5aymZ9sOeU9Vx8j46rumq8XOEqwiWfsUYS8SR-7jlexHcAVr0wmxCTgr6q-2IB70i3MZg5weijQdi6f8S-N6iWO9Q1tF9R2MLPkOtopvdGdo4D2-bw1Iv7Xj9Qr0q4vlOnNPwELUaz_hjqvvq0UyEabD21sLljw",
+        "width": 2048
+      }
+    ],
+    "place_id": "ChIJ55s8-kJ3dDkR1B3bJKCWopw",
+    "plus_code": {
+      "compound_code": "6223+V8 Agra, Uttar Pradesh, India",
+      "global_code": "7JVW6223+V8"
+    },
+    "rating": 4.4,
+    "reference": "ChIJ55s8-kJ3dDkR1B3bJKCWopw",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 119,
+    "vicinity": "sur sadan crossing, Vasu Complex, Raja Ripudaman Marg, Civil Lines, Agra"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 27.1875959,
+        "lng": 77.98891569999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 27.1889621302915,
+          "lng": 77.9902074802915
+        },
+        "southwest": {
+          "lat": 27.1862641697085,
+          "lng": 77.9875095197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "32 white pearls - a superspeciality dental clinic",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3005,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102234790149581829479\">32 white pearls - a superspeciality dental clinic</a>"
+        ],
+        "photo_reference": "AdCG2DNC2vKklFi9PtE4R2uENu62jDZMyfR0qFT4fjVIctI9QjbrMq870aFIGq873RpjOizfwQ2nyTIXXPNk-uMaSzw149XvDx2rTZTrjUasygQbkdJ6gX2HYfQDSTv5RzJvO32dURG47LPRmzzRbH1EeddrW8qIbdXusTRAuYVN9GDr_RF9",
+        "width": 5676
+      }
+    ],
+    "place_id": "ChIJ0WZzcBF3dDkRqlG52fgRvIE",
+    "plus_code": {
+      "compound_code": "5XQQ+2H Agra, Uttar Pradesh, India",
+      "global_code": "7JVV5XQQ+2H"
+    },
+    "rating": 4.8,
+    "reference": "ChIJ0WZzcBF3dDkRqlG52fgRvIE",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 21,
+    "vicinity": "20/210, sirki mandi, Lohamandi, Jaipur house, Agra"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 27.19628449999999,
+        "lng": 77.9979453
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 27.1977129302915,
+          "lng": 77.9992893302915
+        },
+        "southwest": {
+          "lat": 27.1950149697085,
+          "lng": 77.9965913697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Nuface Clinic",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 431,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101952562484621709514\">Nuface Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DPjuktV75c6In_rUUwLrPBYwtkXHlN8RtnAlGaF-m2Fg8d5kqW9bLX1viaghNGeis3fukix-5dQVtCAOrb6n6CspLlVVVtypCQ8K3m-oM3yOc4bDk24c97566oDr6X4VlnT4RCWjYo8_063TewkIVQdMDEVN3QgA775LsCqQ4JOJIxX",
+        "width": 1307
+      }
+    ],
+    "place_id": "ChIJH54gDEB3dDkRx6_7VWSggbA",
+    "plus_code": {
+      "compound_code": "5XWX+G5 Agra, Uttar Pradesh, India",
+      "global_code": "7JVV5XWX+G5"
+    },
+    "rating": 4.9,
+    "reference": "ChIJH54gDEB3dDkRx6_7VWSggbA",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 952,
+    "vicinity": "next to masjid, Delhi Gate Road, Civil Lines, Agra"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 27.19752,
+        "lng": 77.9986298
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 27.1988831802915,
+          "lng": 77.9999284302915
+        },
+        "southwest": {
+          "lat": 27.1961852197085,
+          "lng": 77.9972304697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. Rajeev Agarwal",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3072,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117452667209954244932\">Dr. Rajeev Agarwal</a>"
+        ],
+        "photo_reference": "AdCG2DNRolysE18eCBQ_dqQNOdvirPZcN1T0PPv1hnHf_Sqzx8fj6PJcR8sZo3646nca-qSFMkQmGR0wSsXRqnUDyKYQYZIUGT-ZzcSuf4Y-nrY1CaKTAONhdxZP4cpciMZVTyPJNerrpFLEVA8eNAjjbAKyGUba2T2mjm3k4BBhfxASwSkH",
+        "width": 4608
+      }
+    ],
+    "place_id": "ChIJR1eFQ0B3dDkRryD83BQqCl0",
+    "plus_code": {
+      "compound_code": "5XXX+2F Agra, Uttar Pradesh, India",
+      "global_code": "7JVV5XXX+2F"
+    },
+    "rating": 4.5,
+    "reference": "ChIJR1eFQ0B3dDkRryD83BQqCl0",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 79,
+    "vicinity": "Professors Colony, Civil Lines, Agra"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 27.1971687,
+        "lng": 77.99650369999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 27.1985314302915,
+          "lng": 77.9978700302915
+        },
+        "southwest": {
+          "lat": 27.1958334697085,
+          "lng": 77.99517206970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Drsawhney's superspeciality Dental and orthodontic centre",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 719,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117617166462512102690\">Drsawhney&#39;s superspeciality Dental and orthodontic centre</a>"
+        ],
+        "photo_reference": "AdCG2DMQyisgc4_NEi30O9k1TeMTCGAK9CsdXuIp4g16xNfOmvoXoGAglDhv0NN0PHPody1TQknhnQq0IrNjq5y2FIG7inD7CnOZN-00DI0Ta4MO6FftbVZ-s_onSuLY7OU4F2A33eFw9gs-HkzUNPzCQehLnvSY6Ax6keY5zcthaoy35PJo",
+        "width": 793
+      }
+    ],
+    "place_id": "ChIJYWgG8EB3dDkRAM2f5qQ3oLs",
+    "plus_code": {
+      "compound_code": "5XWW+VJ Agra, Uttar Pradesh, India",
+      "global_code": "7JVV5XWW+VJ"
+    },
+    "rating": 4.8,
+    "reference": "ChIJYWgG8EB3dDkRAM2f5qQ3oLs",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 18,
+    "vicinity": "near pushpanjali hospital, Ug4, shanti madhuvan plaza, near pushpanjali hospital, Delhi Gate Road, Agra"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 27.187808,
+        "lng": 77.98488669999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 27.18916258029151,
+          "lng": 77.9863300802915
+        },
+        "southwest": {
+          "lat": 27.1864646197085,
+          "lng": 77.98363211970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "DR KUSHAL SINGH",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 640,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107204756601255427567\">DR KUSHAL SINGH</a>"
+        ],
+        "photo_reference": "AdCG2DPx5I8ed9RIEEtC4P3ApdcX0jdCUy_XPE-NfcvyrI5M5xpBCVtV-d0qm1ogeUCtVlBdcXbcGA0Qj7ZKe3UkzqmivauLzV9-MG1MoB8J2BwUN1N8d1n8ZH3jEElXed-yyiryjIegh7F-TY89a4nweZzxgflFJ1_Lsg3hmdp_X-s8NLoa",
+        "width": 960
+      }
+    ],
+    "place_id": "ChIJ18R4DRF3dDkRGYrWJyKFRI8",
+    "plus_code": {
+      "compound_code": "5XQM+4X Agra, Uttar Pradesh, India",
+      "global_code": "7JVV5XQM+4X"
+    },
+    "rating": 5,
+    "reference": "ChIJ18R4DRF3dDkRGYrWJyKFRI8",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 821,
+    "vicinity": "near lord bhairo mandir, 143, Jaipur House Colony, Khatehna, Lohamandi, Agra"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 27.2016908,
+        "lng": 78.0083205
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 27.2030011802915,
+          "lng": 78.0096602302915
+        },
+        "southwest": {
+          "lat": 27.20030321970849,
+          "lng": 78.0069622697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+    "icon_background_color": "#F88181",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+    "name": "Dr. Amit Dental Clinic",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 608,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107285656946555638423\">Dr. Amit Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DNAw0HzcIflVwtC4FnaF3jUEgMvUgpz5Sgl5PHoXarqlVo-2Pi1bvIJlncrjEouD56kCOWRlAH33XW6QkQmlM9XB2QfJLNE-dS5BHVyoslWV_-9vaynONtEq81VxCauLLQdPj0yNDNnjtMz8p_STbvYDMGSNM9HyL1noUqUZxyMwofF",
+        "width": 1078
+      }
+    ],
+    "place_id": "ChIJYw4wr0h3dDkRQaYOocAgqmM",
+    "plus_code": {
+      "compound_code": "6225+M8 Agra, Uttar Pradesh, India",
+      "global_code": "7JVW6225+M8"
+    },
+    "rating": 4.9,
+    "reference": "ChIJYw4wr0h3dDkRQaYOocAgqmM",
+    "scope": "GOOGLE",
+    "types": [
+      "hospital",
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 71,
+    "vicinity": "opposite Big Bazaar, opposite GST Office, Wazirpura Road, Sanjay Place, Civil Lines, Agra"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 27.208353,
+        "lng": 78.00683
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 27.2096347302915,
+          "lng": 78.00818503029151
+        },
+        "southwest": {
+          "lat": 27.2069367697085,
+          "lng": 78.0054870697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. Arvind's Dental Clinic",
+    "opening_hours": {
+      "open_now": false
+    },
+    "place_id": "ChIJLWOvtVp3dDkRyk2ITYSLsfc",
+    "plus_code": {
+      "compound_code": "6254+8P Agra, Uttar Pradesh, India",
+      "global_code": "7JVW6254+8P"
+    },
+    "rating": 5,
+    "reference": "ChIJLWOvtVp3dDkRyk2ITYSLsfc",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "77, Nehru Nagar, Civil Lines, Agra"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 27.20727699999999,
+        "lng": 78.0168968
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 27.2085660802915,
+          "lng": 78.0182151302915
+        },
+        "southwest": {
+          "lat": 27.20586811970849,
+          "lng": 78.01551716970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "DANTIKA Dental Aesthetic's & Wellness",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 5402,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113626534928580429392\">Magnum Digital Solutions</a>"
+        ],
+        "photo_reference": "AdCG2DML5Lzw2GKVpBa_EoxVVtOt851V6nCspZDfGcQAcgAuDlr1WfJhQpSSs33h5f10RYC7B0YnKs3-MxemqLp-wfgFTwIHfv6KEaWDwlQTKHw31dqYM4xGLD9ur8uRAs7_NOeCsR91PHtU4Y07wKqypy53BzQJo8iLB4_Gi9PYcYMahRo7",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJQY3JC013dDkRoJ_4FSiOlMI",
+    "plus_code": {
+      "compound_code": "6248+WQ Agra, Uttar Pradesh, India",
+      "global_code": "7JVW6248+WQ"
+    },
+    "rating": 4.7,
+    "reference": "ChIJQY3JC013dDkRoJ_4FSiOlMI",
+    "scope": "GOOGLE",
+    "types": [
+      "beauty_salon",
+      "dentist",
+      "doctor",
+      "hair_care",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 25,
+    "vicinity": "near Ashish Garden Back Gate, 38, Paliwal Park Road, North Vijay Nagar Colony, Agra"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 27.141827,
+        "lng": 78.007103
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 27.1432310802915,
+          "lng": 78.00846273029151
+        },
+        "southwest": {
+          "lat": 27.1405331197085,
+          "lng": 78.00576476970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "MAHESHWARI DENTAL CLINIC",
+    "photos": [
+      {
+        "height": 960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100738269411015734884\">Rachit Maheshwari</a>"
+        ],
+        "photo_reference": "AdCG2DNbrUXoqPmhAZxAaCzBEwrNG14fsUxBqfHPmwHXKb0pYVqAnQDHlxsNudIdVPiuMK6fUfrzTqfoKw6NpxHRhSGuuvI1tapXYPGz7FWXorWZxSBZKaWMJ63EoZxZlU9u0sPLcO5cf_2T2NerWE4_hgGrLTFZ54Cxc3y7-1jPmUq05DNO",
+        "width": 1280
+      }
+    ],
+    "place_id": "ChIJ3ZbCY7p2dDkRYMAv9aiyBgQ",
+    "plus_code": {
+      "compound_code": "42R4+PR Agra, Uttar Pradesh, India",
+      "global_code": "7JVW42R4+PR"
+    },
+    "rating": 4.5,
+    "reference": "ChIJ3ZbCY7p2dDkRYMAv9aiyBgQ",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "Padam Plaza, Kar Kunj Chauraha, Avas Vikas Colony, Lohamandi, Agra"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 27.202523,
+        "lng": 78.039288
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 27.2038274802915,
+          "lng": 78.04070978029152
+        },
+        "southwest": {
+          "lat": 27.2011295197085,
+          "lng": 78.03801181970852
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Shri Radhey Krishna Dental Clinic (AUC DENTAL)",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 1152,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107159375587752724165\">Shri Radhey Krishna Dental Clinic (AUC DENTAL)</a>"
+        ],
+        "photo_reference": "AdCG2DMAXip7EY24V2ZE97zZVlTNpftd_MLQd5HC-hAlrKns_D--Q8gXIEtFeC0uVWCOOB4l484brVTQqlfQ4i78XIP3tykKY8ewauWrNRs7ecnEupI4PuqK8Gt6iWjwVXzjuNHr99LOwjqcVq2fiJJ_M9lG1yDV2VFkGh7E7W9knzZsAAMW",
+        "width": 648
+      }
+    ],
+    "place_id": "ChIJ_YrCV75wdDkRCOsGAgkdNgM",
+    "plus_code": {
+      "compound_code": "623Q+2P Agra, Uttar Pradesh, India",
+      "global_code": "7JVW623Q+2P"
+    },
+    "rating": 4.9,
+    "reference": "ChIJ_YrCV75wdDkRCOsGAgkdNgM",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 55,
+    "vicinity": "Rambagh Crossing, Rambagh, Agra"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 27.2136982,
+        "lng": 78.01794160000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 27.2150438802915,
+          "lng": 78.01935153029152
+        },
+        "southwest": {
+          "lat": 27.21234591970849,
+          "lng": 78.01665356970851
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Total Dental Care & Implant Centre best dentist",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 1152,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108766913138788360001\">Total Dental Care &amp; Implant Centre best dentist</a>"
+        ],
+        "photo_reference": "AdCG2DOJ-4wNQC0Kded3DvpD8EudvqCjEEW10spC1QFHYphmAI3KLpUpWFH3dXb4sXPD7YKXpgBHcUPGfafTMNzlbkAboOOUFktOhlaglB-nUXzlFy3Lqb0r3ZXzXzlbG0EJoCQO9_q_-r5_A95dmcG6fOTnq1m366L-2tCjw6a5aHgFWDMq",
+        "width": 2048
+      }
+    ],
+    "place_id": "ChIJkQBEalN3dDkRIojCJKH7nJg",
+    "plus_code": {
+      "compound_code": "6279+F5 Agra, Uttar Pradesh, India",
+      "global_code": "7JVW6279+F5"
+    },
+    "rating": 4.7,
+    "reference": "ChIJkQBEalN3dDkRIojCJKH7nJg",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 70,
+    "vicinity": "near Tempation Restaurant, First Floor, Shop No. 7, B-73, On Complex, Central Bank Road,, near Tempation Restaurant, Kamla Nagar, Agra"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 27.2176893,
+        "lng": 78.019038
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 27.2190403302915,
+          "lng": 78.02037363029149
+        },
+        "southwest": {
+          "lat": 27.2163423697085,
+          "lng": 78.01767566970848
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "HRVS Multispeciality Dental Clinic",
+    "opening_hours": {
+      "open_now": false
+    },
+    "place_id": "ChIJk9YnaatwdDkRIpet6Htdy9Q",
+    "plus_code": {
+      "compound_code": "6299+3J Agra, Uttar Pradesh, India",
+      "global_code": "7JVW6299+3J"
+    },
+    "rating": 4.7,
+    "reference": "ChIJk9YnaatwdDkRIpet6Htdy9Q",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3,
+    "vicinity": "B-722/1, Kaveri Mandir Road, Kamla Nagar, Agra"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 27.1715924,
+        "lng": 78.0107978
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 27.1729159802915,
+          "lng": 78.0121745302915
+        },
+        "southwest": {
+          "lat": 27.1702180197085,
+          "lng": 78.0094765697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Manish Dental Hospital",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112658106979963978093\">inshaf khan</a>"
+        ],
+        "photo_reference": "AdCG2DN7yFWMnUICBQ9hIgALX7aQTadHLtScuZTCvrIUV33FiyxQ--b6XJLcKNfy4x_jl6IcafNdZ6u24TCIVt9ePWbl6g8gMPtG-qSWxOT8AFrxBRQxtszQpOOou5vvJp6-Up7smoxVXbULaIu6sHIw6dYuJWfM3kv_7vxjGaVEJLkgSShb",
+        "width": 1840
+      }
+    ],
+    "place_id": "ChIJebR5rdd2dDkR5lX2LU_tyCg",
+    "plus_code": {
+      "compound_code": "52C6+J8 Agra, Uttar Pradesh, India",
+      "global_code": "7JVW52C6+J8"
+    },
+    "rating": 5,
+    "reference": "ChIJebR5rdd2dDkR5lX2LU_tyCg",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "32/2, opposite district hospital, Chhipitola Road, Agra"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 27.16926269999999,
+        "lng": 78.0075351
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 27.1706427302915,
+          "lng": 78.00884818029151
+        },
+        "southwest": {
+          "lat": 27.16794476970849,
+          "lng": 78.00615021970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. Vipul's Face & Dental Clinic",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 5472,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112658980414488048859\">Dr. Vipul&#39;s Face &amp; Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DM0y906L1jaB54LT0H8ElcOnXtHRzu2gF6Ygff9qjwdVe4e_Q5kmEbdAvXymCHSeiuBFxR_Qtjq8LiSLovVoufFF7t6HCTi0acY-7jl8ETYyyN-qQT9sjdrA61AOXa1kZq-0BsqHPz-G3_AABn-670psVL8if5Xd96ZMqaa7BXazaCD",
+        "width": 4232
+      }
+    ],
+    "place_id": "ChIJD5ncyJZ3dDkRog021zKqs5M",
+    "plus_code": {
+      "compound_code": "5295+P2 Agra, Uttar Pradesh, India",
+      "global_code": "7JVW5295+P2"
+    },
+    "rating": 4.9,
+    "reference": "ChIJD5ncyJZ3dDkRog021zKqs5M",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 83,
+    "vicinity": "above Choudhary Diagnosis, 33/100 Lauries Complex, above Choudhary Diagnosis, near Sai Ki Takiya Xing S.R Hospital, Namner, Agra"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 27.1684529,
+        "lng": 78.0099118
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 27.16977103029151,
+          "lng": 78.0112524302915
+        },
+        "southwest": {
+          "lat": 27.1670730697085,
+          "lng": 78.00855446970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr Pooja Sharma",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 960,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114638128953844289138\">Dr Pooja Sharma</a>"
+        ],
+        "photo_reference": "AdCG2DPurtkCiqniKBJACdPuzBSoOuNLsAbTOuLu05p6UW36IX2_cMoAqrMhiB6NVHBf2AK_EiTyusCQeZEFtPzqldcQdFX43ZtHrzLVax1AAj_vgbuserzalRl4ONA4wRIxe6XlSWVJQ5eSzgS-Exhnur6AcJkFtuXRT8XmyH2csO3DSVvU",
+        "width": 1280
+      }
+    ],
+    "place_id": "ChIJNQFtnO53dDkRScLFhnSK2mI",
+    "plus_code": {
+      "compound_code": "5295+9X Agra, Uttar Pradesh, India",
+      "global_code": "7JVW5295+9X"
+    },
+    "rating": 4.8,
+    "reference": "ChIJNQFtnO53dDkRScLFhnSK2mI",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 38,
+    "vicinity": "Near Bone Hospital, Old RTO Building, Pratap Pura, Agra"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 27.1809213,
+        "lng": 77.99944719999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 27.1822887302915,
+          "lng": 78.00079418029152
+        },
+        "southwest": {
+          "lat": 27.1795907697085,
+          "lng": 77.9980962197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "M.J.Dental clinic",
+    "opening_hours": {
+      "open_now": false
+    },
+    "place_id": "ChIJkxxBPVx3dDkRl6QaED39NAk",
+    "plus_code": {
+      "compound_code": "5XJX+9Q Agra, Uttar Pradesh, India",
+      "global_code": "7JVV5XJX+9Q"
+    },
+    "reference": "ChIJkxxBPVx3dDkRl6QaED39NAk",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "12, Nalband Road, Panchkuian, Rakabganj, Agra"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 27.1663103,
+        "lng": 78.0137668
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 27.1675404302915,
+          "lng": 78.01512563029151
+        },
+        "southwest": {
+          "lat": 27.1648424697085,
+          "lng": 78.0124276697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Shiromany Dental Care",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 562,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100628289484247256179\">Shiromany Dental Care</a>"
+        ],
+        "photo_reference": "AdCG2DOX9FvpBaaiS0oJpkRD6H9Thpzn8AVREajm4u81JQ8fwe8cAeWo_vWJuDSEAOCqgF18aI7IvT_cbJqh_izluFqrAr2xtt6aozTVpVnBe4KsU_Y6H9ap-slVTxa2UT-5vhJasTWBilvNCTVY-gYf-oI0JfulHqp2o-NaKjnSUc6KAdp3",
+        "width": 750
+      }
+    ],
+    "place_id": "ChIJjxyBZtF2dDkRm1RVZs-y5KU",
+    "plus_code": {
+      "compound_code": "5287+GG Agra, Uttar Pradesh, India",
+      "global_code": "7JVW5287+GG"
+    },
+    "rating": 4.6,
+    "reference": "ChIJjxyBZtF2dDkRm1RVZs-y5KU",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 47,
+    "vicinity": "opposite St. Anthony College, 19 Ajmer Rd, pratap pura, opposite St. Anthony College, Lata Kunj Colony, Shahzadi Mandi, Rakabganj, Agra"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 27.184213,
+        "lng": 77.997517
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 27.18559543029151,
+          "lng": 77.99876033029152
+        },
+        "southwest": {
+          "lat": 27.1828974697085,
+          "lng": 77.9960623697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr.N.Swarup, 4N Dental supply company",
+    "photos": [
+      {
+        "height": 755,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109567818575765416608\">Neeraj Swarup</a>"
+        ],
+        "photo_reference": "AdCG2DMGBlSG-YNIO_J5h4kw0fKHrWDnBOzR0CN74dNDI-FJxQzYMfkkd0pdHq-haPy9JzSbXwCHz8vUML1i46pYlr2IOMh71eEhGRJZzktGD0fCqg0HbwjPxkqQZ5aico9wDwWuBedKFMUxcj-J81rY72NDFL8WB97U9tKQts5ADVk3kYDY",
+        "width": 979
+      }
+    ],
+    "place_id": "ChIJS06j6d13dDkRbg47geINFhk",
+    "plus_code": {
+      "compound_code": "5XMX+M2 Agra, Uttar Pradesh, India",
+      "global_code": "7JVV5XMX+M2"
+    },
+    "rating": 4,
+    "reference": "ChIJS06j6d13dDkRbg47geINFhk",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 4,
+    "vicinity": "near gokul pura, 27 3, Ashok Nagar, Police Chowki, Agra"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 27.184302,
+        "lng": 78.02016119999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 27.1856836802915,
+          "lng": 78.0214977302915
+        },
+        "southwest": {
+          "lat": 27.1829857197085,
+          "lng": 78.01879976970848
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dhingra Dental Clinic",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 687,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113724597652999841785\">Dhingra Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DNb0t6tLrDr3WElkIHiAJYy07ddYrYFWa0x4QMqrVg06M9dWeIRtsOM5uivE7OxKzSID6GAj6VFmhuw5I4r1FdTB4y_YHLzWHZ8zr3oRyGuFwXhjQhohwqqwVSpqrzFmqUWJTUOud1qZ9fgGIPq5v9HuyCPHoIPrHcSedL_lpUy8xBD",
+        "width": 1222
+      }
+    ],
+    "place_id": "ChIJJ0YlcyV3dDkRSG7iXN41nyc",
+    "plus_code": {
+      "compound_code": "52MC+P3 Agra, Uttar Pradesh, India",
+      "global_code": "7JVW52MC+P3"
+    },
+    "rating": 4.9,
+    "reference": "ChIJJ0YlcyV3dDkRSG7iXN41nyc",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 76,
+    "vicinity": "opp. पंजाब नैशनल बैंक ए.टी.एम, Daresi No. 2, opp. पंजाब नैशनल बैंक ए.टी.एम, Agra"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 27.1845478,
+        "lng": 78.0203526
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 27.1858450802915,
+          "lng": 78.02172128029152
+        },
+        "southwest": {
+          "lat": 27.1831471197085,
+          "lng": 78.01902331970851
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. Pawan Dhingra",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 1280,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115848762483328701319\">Dr. Pawan Dhingra</a>"
+        ],
+        "photo_reference": "AdCG2DN6rdW-41Q118fifNjAPWvGqOMlmQ7XVRDrXP5zsDKvuzPvsFmxwYbO3GwpAwEMZ9JFkIlpWub2JVtvapL0LaKNhK-pEzpLC9VDolD8w025k6u015lM7P9QQYahbSqD7XFWDR2TxCGqeD6281iqwed1hCEtURaN05J3rk7ikHl93GZO",
+        "width": 854
+      }
+    ],
+    "place_id": "ChIJcXgbOT5xdDkRhYBR_K40LpY",
+    "plus_code": {
+      "compound_code": "52MC+R4 Agra, Uttar Pradesh, India",
+      "global_code": "7JVW52MC+R4"
+    },
+    "rating": 5,
+    "reference": "ChIJcXgbOT5xdDkRhYBR_K40LpY",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3,
+    "vicinity": "Number 2, 17/106, Daresi Road, Mantola, Agra"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 27.1845478,
+        "lng": 78.0203526
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 27.1858450802915,
+          "lng": 78.02172128029152
+        },
+        "southwest": {
+          "lat": 27.1831471197085,
+          "lng": 78.01902331970851
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. Nikhil Dhingra",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107144535608843078511\">Dr. Nikhil Dhingra</a>"
+        ],
+        "photo_reference": "AdCG2DMZmdnpe3AMngkW6jhr1VkzFDrzddjo4fvI8quQz-b4rPRH3yjy-pyEdSU9tg2c_OHBLnLj3mgIazFHyHXn5w8nfnEt3IXban7h5H6KFVjc2ZmNcQc3bUrsMBo2K6e-0rSbb_hefEyXhAHwbuK1n60XX4JK9Ni-2T5zebaTiQ-L1qfy",
+        "width": 3000
+      }
+    ],
+    "place_id": "ChIJN4tap_1xdDkRfyFpzIIVpKQ",
+    "plus_code": {
+      "compound_code": "52MC+R4 Agra, Uttar Pradesh, India",
+      "global_code": "7JVW52MC+R4"
+    },
+    "reference": "ChIJN4tap_1xdDkRfyFpzIIVpKQ",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Number 2, 17/120, near petrol pump, Daresi Road, Mantola, Agra"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 27.1844922,
+        "lng": 78.0208332
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 27.1858793802915,
+          "lng": 78.0221676302915
+        },
+        "southwest": {
+          "lat": 27.1831814197085,
+          "lng": 78.01946966970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Girdhari Lal Dhingra Dental Clinic",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 810,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113648027528223178681\">Girdhari Lal Dhingra Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DOHNFto-hPnZSTtDHYZoYaSRzkhPabaD7LsVQ8xzeNMuHteJygDVlm2Wo8-3zY2Ob8sQOa2ZUV9zhFHTOt4dSPlcFeLX3Ygh1bjVb2GPyiXPLufSpQ4yJi1da7cnjq-PxwWV5RnQWen9mHMs5rXztWpg2PAH83DF9mh9nJgHVfOZkiw",
+        "width": 1440
+      }
+    ],
+    "place_id": "ChIJYW_I2ixxdDkR52FzlOkSpyY",
+    "plus_code": {
+      "compound_code": "52MC+Q8 Agra, Uttar Pradesh, India",
+      "global_code": "7JVW52MC+Q8"
+    },
+    "rating": 4.8,
+    "reference": "ChIJYW_I2ixxdDkR52FzlOkSpyY",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 70,
+    "vicinity": "Daresi Road, Daresi, Pipal Mandi, Mantola, Agra"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 27.1656945,
+        "lng": 77.9978189
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 27.1670782802915,
+          "lng": 77.99915653029151
+        },
+        "southwest": {
+          "lat": 27.1643803197085,
+          "lng": 77.99645856970851
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dental Clinic",
+    "place_id": "ChIJ76JSj5Z3dDkR0Z2edc77M2Y",
+    "plus_code": {
+      "compound_code": "5X8X+74 Agra, Uttar Pradesh, India",
+      "global_code": "7JVV5X8X+74"
+    },
+    "reference": "ChIJ76JSj5Z3dDkR0Z2edc77M2Y",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "4D, BUS STAND, 4, Idgah Colony, Agra"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 27.1778387,
+        "lng": 77.9910421
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 27.1790557802915,
+          "lng": 77.9922867302915
+        },
+        "southwest": {
+          "lat": 27.1763578197085,
+          "lng": 77.98958876970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr Diwij kalra",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113578476340507042655\">Dr Diwij kalra</a>"
+        ],
+        "photo_reference": "AdCG2DNxKGTZh4U6Uf67LLC58UdKX-erGZ05hxQ3VUM0kbpCrtZCnMKFXRnEGXP-nNExEDwyu_lJ_86u8Q-GLpudKQ6pt3iEwFvnS3oajyGRcR8z2nKz8jACGhuo0xiQKb-IzTZywcOAaS00SS950honSL9vPG_aVhpqjXk7efrj-8Q8JDEE",
+        "width": 1800
+      }
+    ],
+    "place_id": "ChIJ3TRE4EZ3dDkR9lHe3jr53Z8",
+    "plus_code": {
+      "compound_code": "5XHR+4C Agra, Uttar Pradesh, India",
+      "global_code": "7JVV5XHR+4C"
+    },
+    "rating": 5,
+    "reference": "ChIJ3TRE4EZ3dDkR9lHe3jr53Z8",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "1/12-B & 1/13 Khoja Haveli Road Dhakran Chauraha"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 27.1655416,
+        "lng": 77.9932994
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 27.1668109802915,
+          "lng": 77.9946710302915
+        },
+        "southwest": {
+          "lat": 27.1641130197085,
+          "lng": 77.9919730697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dental clinic Dr Ritika Jain",
+    "opening_hours": {
+      "open_now": false
+    },
+    "place_id": "ChIJg3rd99J3dDkR9ufHDIJbHAc",
+    "plus_code": {
+      "compound_code": "5X8V+68 Agra, Uttar Pradesh, India",
+      "global_code": "7JVV5X8V+68"
+    },
+    "reference": "ChIJg3rd99J3dDkR9ufHDIJbHAc",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Hno-29, 29, Idgah Colony, Agra"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 27.164853,
+        "lng": 77.993838
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 27.1662053302915,
+          "lng": 77.9952086802915
+        },
+        "southwest": {
+          "lat": 27.1635073697085,
+          "lng": 77.99251071970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Ssdc Dental Clinic",
+    "place_id": "ChIJdygr4OZ2dDkRYvrGL7Oikrw",
+    "plus_code": {
+      "compound_code": "5X7V+WG Agra, Uttar Pradesh, India",
+      "global_code": "7JVV5X7V+WG"
+    },
+    "reference": "ChIJdygr4OZ2dDkRYvrGL7Oikrw",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "VIP Road, cantt. phatak, Agra"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 27.1939668,
+        "lng": 78.0058438
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 27.1954023302915,
+          "lng": 78.0071775302915
+        },
+        "southwest": {
+          "lat": 27.1927043697085,
+          "lng": 78.0044795697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. Reecha Agrawal - Best Oral Surgeon in Agra / Dental Implants in Agra",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 1600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104870614791884427973\">Dr. Reecha Agrawal - Best Oral Surgeon in Agra / Dental Implants in Agra</a>"
+        ],
+        "photo_reference": "AdCG2DNsCiE_dxCXxtfEdEjLcf8yDhDj3NIkKZLXRjDAGk2qsRLpIU6jK03A2NtWvzbfLv6htnV9djz36TfCTDJG8qg2Eb0Xeex5JjhqomgZksehDAhaz4B3dnMfoWzJUW8T_izmezekIMwRBJ9Jk_vSXzE_lRoePurBoRXDIhIG-88hsJ8S",
+        "width": 1600
+      }
+    ],
+    "place_id": "ChIJ04Oii4R3dDkRLh2svGaw8e0",
+    "plus_code": {
+      "compound_code": "52V4+H8 Agra, Uttar Pradesh, India",
+      "global_code": "7JVW52V4+H8"
+    },
+    "rating": 5,
+    "reference": "ChIJ04Oii4R3dDkRLh2svGaw8e0",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 40,
+    "vicinity": "Room No. 14, 2nd Floor, Raghunath Medical Center, KP Hospital, Agra"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 27.1585,
+        "lng": 78.0068
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 27.1598515302915,
+          "lng": 78.0081283302915
+        },
+        "southwest": {
+          "lat": 27.1571535697085,
+          "lng": 78.00543036970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. Pallavi Singh, Treated 11K+ Patients | Best Dentist | Dentist Near Me | Best Dentist | Root Canal Treatment",
+    "opening_hours": {
+      "open_now": false
+    },
+    "place_id": "ChIJSZeO0-93dDkRDhNu0Cxevpw",
+    "plus_code": {
+      "compound_code": "5254+CP Agra, Uttar Pradesh, India",
+      "global_code": "7JVW5254+CP"
+    },
+    "reference": "ChIJSZeO0-93dDkRDhNu0Cxevpw",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "hospital",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "EVERGLOW DENTAL STUDIO, GURUDWARA ROAD, Sadar Bazar, Idgah Colony, Agra"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 27.1582831,
+        "lng": 78.0081967
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 27.1596380302915,
+          "lng": 78.0094886302915
+        },
+        "southwest": {
+          "lat": 27.1569400697085,
+          "lng": 78.0067906697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Mahajan multispeciality dental and facial esthetic center",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 809,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115939576499179641652\">Mahajan multispeciality dental and facial esthetic center</a>"
+        ],
+        "photo_reference": "AdCG2DP6Md3j6jy1CoIZyvuLzgGEqO6X1Kw17sreFdNykeBwMU5TrfG07YHKsRQr6jqVkrZIVw_J0c8Fy64GxByC8i-a9eGKeONOckHIcyIB4liJxAHQUiiEptTsOePlsuBdSep0EgCgcK2ZZYuyUoqFAZPLcMg0KS7R9aJlfZGGSS6eco4D",
+        "width": 1440
+      }
+    ],
+    "place_id": "ChIJ7UE-Qwl3dDkRNvxmgaCDMsI",
+    "plus_code": {
+      "compound_code": "5255+87 Agra, Uttar Pradesh, India",
+      "global_code": "7JVW5255+87"
+    },
+    "rating": 4.6,
+    "reference": "ChIJ7UE-Qwl3dDkRNvxmgaCDMsI",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 10,
+    "vicinity": "opposite church, 387, opposite church, Sadar Bazar, Agra"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 27.1770677,
+        "lng": 77.987081
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 27.1783744302915,
+          "lng": 77.98845323029151
+        },
+        "southwest": {
+          "lat": 27.1756764697085,
+          "lng": 77.98575526970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "P.K Sinha",
+    "place_id": "ChIJ4ad7mRx3dDkR9o8zKfY97Wg",
+    "rating": 4,
+    "reference": "ChIJ4ad7mRx3dDkR9o8zKfY97Wg",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "5XGP+RRG, Sangeeta Road, Shahganj, Agra"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 27.1806791,
+        "lng": 77.987214
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 27.1820567802915,
+          "lng": 77.98857218029151
+        },
+        "southwest": {
+          "lat": 27.17935881970849,
+          "lng": 77.98587421970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Smile Dental Clinic",
+    "place_id": "ChIJRYCZ4xp3dDkR5H6jYbLTzn4",
+    "reference": "ChIJRYCZ4xp3dDkR5H6jYbLTzn4",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "5XJP+7VG, New Shahganj Road, Opp. Kothi Meena Bazar, Kothi Meena Bazaar, Shahganj, Agra"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 27.1577266,
+        "lng": 78.01076479999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 27.1590626302915,
+          "lng": 78.0121106302915
+        },
+        "southwest": {
+          "lat": 27.15636466970849,
+          "lng": 78.0094126697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dental Clinic",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3264,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101790668844321495214\">Mukesh Ray</a>"
+        ],
+        "photo_reference": "AdCG2DNqlXaJv-QG7L3mVOBYC8byIZrkFiyH0tZxmJ7GveheeSY-c-mRdtVkE6KaIJTswwhRnoW7yS3UiIgJdU5VpeFTO2BWYmpOIJzhFPsIu9ANnnEVe4M5V75Q3V57vlCcJSGlvbARJoFhYsdnI4WTY6_GUNmV0PvMRrkBmxwZSc2djARy",
+        "width": 1470
+      }
+    ],
+    "place_id": "ChIJGx0k_c52dDkRlokyXfklDRc",
+    "plus_code": {
+      "compound_code": "5256+38 Agra, Uttar Pradesh, India",
+      "global_code": "7JVW5256+38"
+    },
+    "rating": 3.8,
+    "reference": "ChIJGx0k_c52dDkRlokyXfklDRc",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 6,
+    "vicinity": "Saudagar Lines Road, Sadar Bazar, Agra Cantt, Idgah Colony, Agra"
+  },
+  {
+    "business_status": "CLOSED_TEMPORARILY",
+    "geometry": {
+      "location": {
+        "lat": 27.1577642,
+        "lng": 78.01108789999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 27.1591675802915,
+          "lng": 78.01244398029151
+        },
+        "southwest": {
+          "lat": 27.1564696197085,
+          "lng": 78.00974601970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Everglow dental Studio",
+    "permanently_closed": true,
+    "photos": [
+      {
+        "height": 640,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109051327464572532079\">Everglow dental Studio</a>"
+        ],
+        "photo_reference": "AdCG2DNOK6moJf0mw6mZXvSCoOf_SLKOqZ_DRTxIxuBIdQ4F9fNYrG40Ca8icMhuiImmhCJ9J8kbPG_vaPhd-rC5l4OidW9lfj33x6UgsjGKqTjz0Wl05JQG1UBru4J0jhNXKfDp7B0Peplud3IIGh0kKNcbgk2wCqORh6chOkQK5QQ2isUR",
+        "width": 1280
+      }
+    ],
+    "place_id": "ChIJg64mDtR3dDkRCoWTfzuXKlg",
+    "plus_code": {
+      "compound_code": "5256+4C Agra, Uttar Pradesh, India",
+      "global_code": "7JVW5256+4C"
+    },
+    "rating": 5,
+    "reference": "ChIJg64mDtR3dDkRCoWTfzuXKlg",
+    "scope": "GOOGLE",
+    "types": [
+      "doctor",
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 12,
+    "vicinity": "Merchant Chamber, Fatehpur Sikri Road, Sadar Bazar, Idgah Colony, Agra"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 27.1571039,
+        "lng": 78.0112805
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 27.1584611302915,
+          "lng": 78.0126312302915
+        },
+        "southwest": {
+          "lat": 27.1557631697085,
+          "lng": 78.00993326970848
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. Bhavna Singh",
+    "place_id": "ChIJbY9Z1852dDkRVRj9vPFHfpA",
+    "plus_code": {
+      "compound_code": "5246+RG Agra, Uttar Pradesh, India",
+      "global_code": "7JVW5246+RG"
+    },
+    "reference": "ChIJbY9Z1852dDkRVRj9vPFHfpA",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "India"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 27.1883373,
+        "lng": 77.98918809999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 27.1897026302915,
+          "lng": 77.9904909302915
+        },
+        "southwest": {
+          "lat": 27.1870046697085,
+          "lng": 77.98779296970848
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Oral PathLabs",
+    "place_id": "ChIJ08nFbhF3dDkR0OmCbeAnO5k",
+    "reference": "ChIJ08nFbhF3dDkR0OmCbeAnO5k",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "5XQQ+8MP, Ratan Muni Road, Sirki Mandi, Shahganj, Agra"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 27.1878933,
+        "lng": 77.9884482
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 27.1893129802915,
+          "lng": 77.9898105302915
+        },
+        "southwest": {
+          "lat": 27.1866150197085,
+          "lng": 77.9871125697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. Ajay Agarwal",
+    "place_id": "ChIJ3RL9nlF3dDkRn7KFRIe7EVk",
+    "plus_code": {
+      "compound_code": "5XQQ+59 Agra, Uttar Pradesh, India",
+      "global_code": "7JVV5XQQ+59"
+    },
+    "rating": 5,
+    "reference": "ChIJ3RL9nlF3dDkRn7KFRIe7EVk",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "Vishav Karma Complex, Jaipur House Road, Jaipur House Colony, Agra"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 27.1882402,
+        "lng": 77.98849059999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 27.1895994802915,
+          "lng": 77.98981038029152
+        },
+        "southwest": {
+          "lat": 27.1869015197085,
+          "lng": 77.98711241970851
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. Agrawal's Dental Health Clinic & Implant Centre",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 2000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102737731086119630987\">Dr. Agrawal&#39;s Dental Health Clinic &amp; Implant Centre</a>"
+        ],
+        "photo_reference": "AdCG2DOA24hEg7DiPu8qgtMdUb8oB1L9icgLXv9evb6Qp2Uq4PY3owTUfgw76JFt9metuqtyIsjyNFtcsJgkhDiHkxoUe82scnn9S_WsfoUXHO4-SudePvodVyvHFlW3N0gxsBjJGdsirBxDfpxB69JtCPg3UJcSASDleQR1FNdnTvkLya79",
+        "width": 1414
+      }
+    ],
+    "place_id": "ChIJzU7epQN3dDkRiblDBnf8vvc",
+    "plus_code": {
+      "compound_code": "5XQQ+79 Agra, Uttar Pradesh, India",
+      "global_code": "7JVV5XQQ+79"
+    },
+    "rating": 5,
+    "reference": "ChIJzU7epQN3dDkRiblDBnf8vvc",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 5,
+    "vicinity": "shop no -16, Vishav Karma Complex, near jwala takies, Ratan Muni Road, Jaipur House, Khatehna, Jaipur House Colony, Agra"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 27.18789079999999,
+        "lng": 77.98785099999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 27.1891948802915,
+          "lng": 77.98919258029152
+        },
+        "southwest": {
+          "lat": 27.1864969197085,
+          "lng": 77.9864946197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "The Dentist Studio - Dr. Abhishek Bhargava",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 4096,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114756298253328569129\">The Dentist Studio - Dr. Abhishek Bhargava</a>"
+        ],
+        "photo_reference": "AdCG2DPIOkK2QoMsQRXVt81YteqZF4bjb3CsUWI9K_ptPTbIdmDQApX-KWER5I3atl2r5vKrMgvJ5HRFp16G1Gco6hJpIG5U4UY35cR-s7ixiSeV68m48W2UUH7EhcASJrCXv5o-qPLMJeX9woF7gw5JwBcw2vkVWMXVIjFdTkLju5c_REFl",
+        "width": 3072
+      }
+    ],
+    "place_id": "ChIJ-wrg5Lp3dDkR2-JGdQtVZuo",
+    "plus_code": {
+      "compound_code": "5XQQ+54 Agra, Uttar Pradesh, India",
+      "global_code": "7JVV5XQQ+54"
+    },
+    "rating": 5,
+    "reference": "ChIJ-wrg5Lp3dDkR2-JGdQtVZuo",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 62,
+    "vicinity": "near Shyam Medical Store, 32, Jaipur House Market, Agra"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 27.1843014,
+        "lng": 77.98544179999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 27.1856988802915,
+          "lng": 77.98680493029151
+        },
+        "southwest": {
+          "lat": 27.1830009197085,
+          "lng": 77.9841069697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dwarika Dental Clinic Implant & Orthodontic Centre",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103243085988687176796\">Harsha Maheshwari</a>"
+        ],
+        "photo_reference": "AdCG2DMEhlM7ZPKDE_a6tjaAbKdS9oumV4LzOGpsc0lqviD4CpVjwSExoSvaqb3bzlIpL2uFEGPI74ur9wRHPd409TELkjp_mESjJZzgAAeoxYGQxc8v6kUSqD8ajEz07Vb5Ta9QQBNLso1ej6o8Nk9sTaTHgVvygrwNZ-aemmbzrNGGeerk",
+        "width": 3000
+      }
+    ],
+    "place_id": "ChIJAQAA5Q93dDkRYsz5ZjMuhmk",
+    "plus_code": {
+      "compound_code": "5XMP+P5 Agra, Uttar Pradesh, India",
+      "global_code": "7JVV5XMP+P5"
+    },
+    "rating": 4.6,
+    "reference": "ChIJAQAA5Q93dDkRYsz5ZjMuhmk",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 10,
+    "vicinity": "A-46, Alok Nagar, Agra"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 27.1962827,
+        "lng": 77.9978527
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 27.1977104802915,
+          "lng": 77.9991993302915
+        },
+        "southwest": {
+          "lat": 27.1950125197085,
+          "lng": 77.9965013697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "ENT Laser & Cochilear Implant Clinic",
+    "place_id": "ChIJJ940DEB3dDkR7DncWSQt7ZQ",
+    "plus_code": {
+      "compound_code": "5XWX+G4 Agra, Uttar Pradesh, India",
+      "global_code": "7JVV5XWX+G4"
+    },
+    "reference": "ChIJJ940DEB3dDkR7DncWSQt7ZQ",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Grives Complex, Raja Balwant Singh Road, Delhi Gate, Professors Colony, Civil Lines, Agra"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 27.1772454,
+        "lng": 77.9834541
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 27.1786338802915,
+          "lng": 77.9848158302915
+        },
+        "southwest": {
+          "lat": 27.1759359197085,
+          "lng": 77.98211786970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "MULTI SPECIALITY DENTAL CLINIC",
+    "place_id": "ChIJqcHCnQR3dDkRGQTsw8aFG40",
+    "reference": "ChIJqcHCnQR3dDkRGQTsw8aFG40",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "5XGM+V9W, Bodla Road, Kothi Meena Bazaar, Shahganj, Agra"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 27.18395559999999,
+        "lng": 77.9848078
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 27.1853034802915,
+          "lng": 77.98616013029151
+        },
+        "southwest": {
+          "lat": 27.1826055197085,
+          "lng": 77.9834621697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dentist",
+    "place_id": "ChIJ9XkGX_13dDkRUHCo3LAnrl0",
+    "plus_code": {
+      "compound_code": "5XMM+HW Agra, Uttar Pradesh, India",
+      "global_code": "7JVV5XMM+HW"
+    },
+    "reference": "ChIJ9XkGX_13dDkRUHCo3LAnrl0",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "A-46, Alok Nagar, Agra"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 27.1973899,
+        "lng": 77.9985703
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 27.1987415802915,
+          "lng": 77.99988763029151
+        },
+        "southwest": {
+          "lat": 27.1960436197085,
+          "lng": 77.99718966970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Explore Clinic | Skin Specialist In Agra | Hair Doctor In Agra | Dental Clinic In Agra",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 1066,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114547159874186955557\">Explore Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DOgt0ez2UjWIRug1u7QPIQHQcJycGwACdZZDkCLtdrog3H7E8qFnON5gnisNM4Wn4TaEShhQgYZPU1bVumXu0ICCSzyDiUu4XUsFlcmNMO-Jg3Foh1mnOP7XRXQP7vqF6lFemLD5nUaN0W0rOtDfrRCZiGF4JxmRXi7WEf1_u4_zYIa",
+        "width": 1600
+      }
+    ],
+    "place_id": "ChIJ_____2t3dDkRTBuHPLK7DGM",
+    "plus_code": {
+      "compound_code": "5XWX+XC Agra, Uttar Pradesh, India",
+      "global_code": "7JVV5XWX+XC"
+    },
+    "rating": 4.7,
+    "reference": "ChIJ_____2t3dDkRTBuHPLK7DGM",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 57,
+    "vicinity": "Delhi Gate Road, Professors Colony, Civil Lines, Agra"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 27.1991402,
+        "lng": 78.005673
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 27.2003626802915,
+          "lng": 78.00713223029152
+        },
+        "southwest": {
+          "lat": 27.1976647197085,
+          "lng": 78.0044342697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dental Clinic Dr.Sanjay Gautam",
+    "place_id": "ChIJGdlkrEd3dDkRxiK3zVVRXnU",
+    "plus_code": {
+      "compound_code": "52X4+M7 Agra, Uttar Pradesh, India",
+      "global_code": "7JVW52X4+M7"
+    },
+    "rating": 5,
+    "reference": "ChIJGdlkrEd3dDkRxiK3zVVRXnU",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "India"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 27.1970506,
+        "lng": 77.9967095
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 27.1983822802915,
+          "lng": 77.9980410802915
+        },
+        "southwest": {
+          "lat": 27.1956843197085,
+          "lng": 77.99534311970848
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dental essence dental clinic",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 6936,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113580902053297477813\">Dental essence dental clinic</a>"
+        ],
+        "photo_reference": "AdCG2DOio_-Q3EaNYcBQKiLYovaWROV8Gc0gZcUTuh-aIidRhfM3EUWnej2XoBbBpRR-l0Nk8Q_wtKaQY5l-3C9Qua6eXRBbxRbj6LZtSyRgLaO2lNfnkR60qTUx3DSwgE74Wd1K60xG43ebYI0hesBl5XWAQEsu4mheRLM8yLLc0YH60b1H",
+        "width": 9248
+      }
+    ],
+    "place_id": "ChIJyUx0XvZ3dDkR0fXB_KwFCkI",
+    "plus_code": {
+      "compound_code": "5XWW+RM Agra, Uttar Pradesh, India",
+      "global_code": "7JVV5XWW+RM"
+    },
+    "rating": 5,
+    "reference": "ChIJyUx0XvZ3dDkR0fXB_KwFCkI",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 19,
+    "vicinity": "Second floor, Shop no.DC-14 Shanti madhuban plaza, Delhi Gate Road, Agra"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 27.1672733,
+        "lng": 77.98416139999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 27.1686255302915,
+          "lng": 77.9855652802915
+        },
+        "southwest": {
+          "lat": 27.1659275697085,
+          "lng": 77.98286731970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr Rahul Chahar",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 809,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111751753834061628958\">Dr Rahul Chahar</a>"
+        ],
+        "photo_reference": "AdCG2DOfUxobAJz5QbqLVY6DsUdKmfaFwtoxTTmCgskMYLFVoWzQ1vg5ijjLZw8zkBi2DxzqUC7ZLAuTLR49bPlarrmjVFXrl_No2u3-hffIPWHAUdHZKqGLuURuxNMN6a35vzUtzC9XeI43D-yFEtmqdPJewC5N2tfmweQvjrAsgj8wDsqc",
+        "width": 1440
+      }
+    ],
+    "place_id": "ChIJVw3OGWx3dDkRxE15LDyU54Q",
+    "plus_code": {
+      "compound_code": "5X8M+WM Agra, Uttar Pradesh, India",
+      "global_code": "7JVV5X8M+WM"
+    },
+    "rating": 4.6,
+    "reference": "ChIJVw3OGWx3dDkRxE15LDyU54Q",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 11,
+    "vicinity": "Arjun Nagar, Agra"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 27.1998284,
+        "lng": 78.00484709999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 27.2011370302915,
+          "lng": 78.0063145802915
+        },
+        "southwest": {
+          "lat": 27.1984390697085,
+          "lng": 78.0036166197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr Pavan K Gupta Endoscopy Clinc",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112761971503264378961\">Umang Saini</a>"
+        ],
+        "photo_reference": "AdCG2DPs0pR6wj9UPHevG1NAWD2rLSkovIb87ol8_swj9UXytC0QPhSpzFNpnlq0tydo9tk7xl2hlBgA6VARANHmRebZoHkHlKhht9h715fuWTA5Rj_XIWO5ib5mSki0Ik91Ow6C7aTtbxJP_O6ov7VJIBm4v_m3j31cshw5Pt77TJJNlDkB",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJ5Vi7wjt3dDkR16DXI0iyJpE",
+    "plus_code": {
+      "compound_code": "52X3+WW Agra, Uttar Pradesh, India",
+      "global_code": "7JVW52X3+WW"
+    },
+    "rating": 4.7,
+    "reference": "ChIJ5Vi7wjt3dDkR16DXI0iyJpE",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 12,
+    "vicinity": "28/101, Sanjay Place, Sanjay Place, Agra"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 27.1988127,
+        "lng": 77.9995386
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 27.2001652302915,
+          "lng": 78.00089098029152
+        },
+        "southwest": {
+          "lat": 27.1974672697085,
+          "lng": 77.9981930197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dental Speciality Clinic",
+    "opening_hours": {
+      "open_now": false
+    },
+    "place_id": "ChIJRV9HVUB3dDkRG7JxM39Mu_s",
+    "reference": "ChIJRV9HVUB3dDkRG7JxM39Mu_s",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "5XXX+GRF, Delhi Gate Road, Delhi Gate, Professors Colony, Civil Lines, Agra"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 27.2000867,
+        "lng": 78.005526
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 27.2014796302915,
+          "lng": 78.00674593029149
+        },
+        "southwest": {
+          "lat": 27.1987816697085,
+          "lng": 78.00404796970848
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr.Jaitley's Orthodontic And Dental Clinic",
+    "opening_hours": {
+      "open_now": false
+    },
+    "place_id": "ChIJ7xFQV0Z3dDkRaTs_t889-Kw",
+    "plus_code": {
+      "compound_code": "6224+26 Agra, Uttar Pradesh, India",
+      "global_code": "7JVW6224+26"
+    },
+    "rating": 4,
+    "reference": "ChIJ7xFQV0Z3dDkRaTs_t889-Kw",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 8,
+    "vicinity": "Friends Tower, Mahatma Gandhi Road, Sanjay Palace, Block 41/4B, F-11, Sanjay Place, Madhu Nagar, Agra"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 27.1980932,
+        "lng": 77.99704659999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 27.1994313802915,
+          "lng": 77.99844028029149
+        },
+        "southwest": {
+          "lat": 27.1967334197085,
+          "lng": 77.99574231970848
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. Anil Agrawal Dental Speciality Centre",
+    "opening_hours": {
+      "open_now": false
+    },
+    "place_id": "ChIJmx3xL0B3dDkRVmv7MTjRnQU",
+    "plus_code": {
+      "compound_code": "5XXW+6R Agra, Uttar Pradesh, India",
+      "global_code": "7JVV5XXW+6R"
+    },
+    "rating": 4,
+    "reference": "ChIJmx3xL0B3dDkRVmv7MTjRnQU",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 25,
+    "vicinity": "near Siddharth Hospital, Gulab Rai marg Road Chavhan Market, near Siddharth Hospital, Delhi Gate, Professors Colony, Civil Lines, Agra"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 27.1995113,
+        "lng": 78.0001233
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 27.20083023029151,
+          "lng": 78.0014602302915
+        },
+        "southwest": {
+          "lat": 27.19813226970851,
+          "lng": 77.9987622697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "AAKANKSHA DENTAL CLINIC & IMPLANT CENTRE",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 400,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110000853323527385852\">AAKANKSHA DENTAL CLINIC &amp; IMPLANT CENTRE</a>"
+        ],
+        "photo_reference": "AdCG2DPK25HkE9jvHRtBeF7CK247S_cZ4Vw8IhzZFHJAXYzLoloicC6UCcDif7M_EtwhYGiS3GopwMpXvMxcnuQwj7Fl_lN76xGt5YvwZrcgoLvjpD1eBoLWWiGv6cp9zGcG2HQ38NLnsjLds37w6iqf1drFqiGXEmUNTdjMC__K7HahJX0",
+        "width": 600
+      }
+    ],
+    "place_id": "ChIJq6qqqkt3dDkR7NHhO4U2tXI",
+    "plus_code": {
+      "compound_code": "52X2+R2 Agra, Uttar Pradesh, India",
+      "global_code": "7JVW52X2+R2"
+    },
+    "rating": 4.6,
+    "reference": "ChIJq6qqqkt3dDkR7NHhO4U2tXI",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 5,
+    "vicinity": "1/193-6, Bagh Farzana Road, Civil Lines, Agra"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 27.15542209999999,
+        "lng": 77.9950927
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 27.1567753302915,
+          "lng": 77.9964442802915
+        },
+        "southwest": {
+          "lat": 27.1540773697085,
+          "lng": 77.99374631970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. Narayan Singh",
+    "place_id": "ChIJXfVijOl2dDkRMYDNeaD7BOs",
+    "plus_code": {
+      "compound_code": "5X4W+52 Agra, Uttar Pradesh, India",
+      "global_code": "7JVV5X4W+52"
+    },
+    "reference": "ChIJXfVijOl2dDkRMYDNeaD7BOs",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "India"
+  },
+  {
+    "business_status": "CLOSED_TEMPORARILY",
+    "geometry": {
+      "location": {
+        "lat": 27.1970038,
+        "lng": 78.0232893
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 27.1982834302915,
+          "lng": 78.0246713802915
+        },
+        "southwest": {
+          "lat": 27.1955854697085,
+          "lng": 78.02197341970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dental Care",
+    "permanently_closed": true,
+    "place_id": "ChIJyWKVbspwdDkR5sXUIS40Fnc",
+    "reference": "ChIJyWKVbspwdDkR5sXUIS40Fnc",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "52WF+R83, Radhey Wali Gali, Jeoni Mandi, koyala"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 27.2011909,
+        "lng": 78.0071152
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 27.2024515802915,
+          "lng": 78.00841988029151
+        },
+        "southwest": {
+          "lat": 27.1997536197085,
+          "lng": 78.0057219197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/shopping-71.png",
+    "icon_background_color": "#4B96F3",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/shopping_pinlet",
+    "name": "4 N Dental Trading Company",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103180541183744565881\">4 N Dental Trading Company</a>"
+        ],
+        "photo_reference": "AdCG2DM3pI8DetZtLEQUFZ03O9KnuVUBn3EZvqd78OWKe8gX3SsTYGKp8qb7iHQ8XgQZUvXxAHCbnBDUsUwAbecFBiPpi78cvGlMYMWdRBtLuscESHpC6lD_JHlp91Pl3hunCYH-O0sZevIfPuldvZWFWcRwVZ85FgNwJbxot1COM5hQpEvO",
+        "width": 1800
+      }
+    ],
+    "place_id": "ChIJq6qqukd3dDkRrvAHMLUe25Y",
+    "plus_code": {
+      "compound_code": "6224+FR Agra, Uttar Pradesh, India",
+      "global_code": "7JVW6224+FR"
+    },
+    "rating": 4.1,
+    "reference": "ChIJq6qqukd3dDkRrvAHMLUe25Y",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 9,
+    "vicinity": "Kalpnidhi, 37-G-38, Below Central Bank Zonal Office, Behind Metro Bar & Restaurant, Sanjay Place, Civil Lines, Agra"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 27.1967945,
+        "lng": 78.0239046
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 27.1982609802915,
+          "lng": 78.0251978802915
+        },
+        "southwest": {
+          "lat": 27.1955630197085,
+          "lng": 78.0224999197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr Urvija jain",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3072,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101116276025488697474\">Dr Urvija jain</a>"
+        ],
+        "photo_reference": "AdCG2DPq2Hxy_69JteiPuApOmAEY6rzrS-u5YOcCsF39yfrGNOWzFtfERbXqq85aMvl2Y75rsxw5w0chE7TRzoxbIPzbR_B8YGwsRULCQSBzBOBWR_kyLArkLmg7Unv6HVjuGbLs5gj42UMt22SSgSpgYH2joaRRc3x4cD3K2_Vj_H6teOUF",
+        "width": 4096
+      }
+    ],
+    "place_id": "ChIJdaoaoDx3dDkRgxMv4gsGtgw",
+    "plus_code": {
+      "compound_code": "52WF+PH Agra, Uttar Pradesh, India",
+      "global_code": "7JVW52WF+PH"
+    },
+    "rating": 5,
+    "reference": "ChIJdaoaoDx3dDkRgxMv4gsGtgw",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 17,
+    "vicinity": "108, first floor, Maatangi Complex, near jeoni Mandi, Crossing, Agra"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 27.163527,
+        "lng": 77.9846546
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 27.1648738802915,
+          "lng": 77.98595688029151
+        },
+        "southwest": {
+          "lat": 27.1621759197085,
+          "lng": 77.98325891970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "ARORA DENTAL CLINIC",
+    "place_id": "ChIJ_QwfMPt2dDkRmNd1wmFiJIg",
+    "plus_code": {
+      "compound_code": "5X7M+CV Agra, Uttar Pradesh, India",
+      "global_code": "7JVV5X7M+CV"
+    },
+    "rating": 1,
+    "reference": "ChIJ_QwfMPt2dDkRmNd1wmFiJIg",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "India"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 27.16407169999999,
+        "lng": 77.9842238
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 27.1654258302915,
+          "lng": 77.98568358029151
+        },
+        "southwest": {
+          "lat": 27.16272786970849,
+          "lng": 77.98298561970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Royal dental clinic🦷",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 2608,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/103003393468140550405\">Royal dental clinic</a>"
+        ],
+        "photo_reference": "AdCG2DNZgrG0twEbtNtGhCV292psr-pBnEncy2XYIGkeuAYwFXB1rmZp-GoHylNP_aOZPZTQyP2x33wy2PSa76B8oJk5BttHlJ4d2W3GCSB4RjRHPfsrN_vlhmu3_Bem3buZwsjLTODOydP540Vrw9SngBoQPxy6mFxzHiZSUanhVlclnbSY",
+        "width": 4624
+      }
+    ],
+    "place_id": "ChIJKwQPogN3dDkRgZUsP_znvgs",
+    "plus_code": {
+      "compound_code": "5X7M+JM Agra, Uttar Pradesh, India",
+      "global_code": "7JVV5X7M+JM"
+    },
+    "rating": 5,
+    "reference": "ChIJKwQPogN3dDkRgZUsP_znvgs",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "near Anand inter college, Agra"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 27.19771,
+        "lng": 78.02335980000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 27.1990306802915,
+          "lng": 78.0246962802915
+        },
+        "southwest": {
+          "lat": 27.1963327197085,
+          "lng": 78.02199831970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "AMIT KUMAR JAIN",
+    "place_id": "ChIJgcXBdspwdDkR-DNFFJXyloI",
+    "plus_code": {
+      "compound_code": "52XF+38 Agra, Uttar Pradesh, India",
+      "global_code": "7JVW52XF+38"
+    },
+    "reference": "ChIJgcXBdspwdDkR-DNFFJXyloI",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "India"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 27.198235,
+        "lng": 77.9922895
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 27.1995801302915,
+          "lng": 77.9937237302915
+        },
+        "southwest": {
+          "lat": 27.1968821697085,
+          "lng": 77.9910257697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "ORO DENTAL & MEDICAL CARE CENTRE",
+    "photos": [
+      {
+        "height": 3996,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106854240137787367796\">MD ATIF</a>"
+        ],
+        "photo_reference": "AdCG2DPf8CRq1InRuNRx9WeZomaBc9o8Xb8uIYeyZmDVvilc5MhAwmD0G5YnGlneS0cqpON9yLtaFhkjr4ULhqodbVX8ulmQzchGmWZyUWJgKa5yhQPAuKqxlGTgNOm-ns2dZw-NK8Th1ufayA3_VHi9KvV9MTXAbBKGZQXoH1lo4Epkqm0",
+        "width": 2984
+      }
+    ],
+    "place_id": "ChIJGUWJn2t3dDkRWmmv_Z1F-lg",
+    "plus_code": {
+      "compound_code": "5XXR+7W Agra, Uttar Pradesh, India",
+      "global_code": "7JVV5XXR+7W"
+    },
+    "reference": "ChIJGUWJn2t3dDkRWmmv_Z1F-lg",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "India"
+  }
+]
