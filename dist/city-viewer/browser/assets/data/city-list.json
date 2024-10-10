@@ -1,0 +1,109 @@
+{
+  "cities": [
+    {
+      "name": "amritsar",
+      "filename": "amritsar"
+    },
+    {
+      "name": "aurangabad",
+      "filename": "aurangabad"
+    },
+    {
+      "name": "dehradun",
+      "filename": "dehradun"
+    },
+    {
+      "name": "goa",
+      "filename": "goa"
+    },
+    {
+      "name": "guwahati",
+      "filename": "guwahati"
+    },
+    {
+      "name": "jalandhar",
+      "filename": "jalandhar"
+    },
+    {
+      "name": "jodhpur",
+      "filename": "jodhpur"
+    },
+    {
+      "name": "madurai",
+      "filename": "madurai"
+    },
+    {
+      "name": "mangaluru",
+      "filename": "mangaluru"
+    },
+    {
+      "name": "mysuru",
+      "filename": "mysuru"
+    },
+    {
+      "name": "nashik",
+      "filename": "nashik"
+    },
+    {
+      "name": "raipur",
+      "filename": "raipur"
+    },
+    {
+      "name": "ranchi",
+      "filename": "ranchi"
+    },
+    {
+      "name": "surat",
+      "filename": "surat"
+    },
+    {
+      "name": "shimla",
+      "filename": "shimla"
+    },
+    {
+      "name": "thiruvananthapuram",
+      "filename": "thiruvananthapuram"
+    },
+    {
+      "name": "tirupati",
+      "filename": "tirupati"
+    },
+    {
+      "name": "udaipur",
+      "filename": "udaipur"
+    },
+    {
+      "name": "varanasi",
+      "filename": "varanasi"
+    },
+    {
+      "name": "vijayawada",
+      "filename": "vijayawada"
+    },
+
+    {
+      "name": "agra",
+      "filename": "agra"
+    },
+
+    {
+      "name": "bokaro",
+      "filename": "bokaro"
+    },
+
+    {
+      "name": "dhanbad",
+      "filename": "dhanbad"
+    },
+
+    {
+      "name": "gorakhpur",
+      "filename": "gorakhpur"
+    },
+
+    {
+      "name": "patna",
+      "filename": "patna"
+    }
+  ]
+}

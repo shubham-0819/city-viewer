@@ -1,0 +1,2853 @@
+[
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 19.8721555,
+        "lng": 75.3285774
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 19.8735278302915,
+          "lng": 75.32983038029151
+        },
+        "southwest": {
+          "lat": 19.8708298697085,
+          "lng": 75.32713241970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Tirupati Dental Care Centre",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3483,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100879593416985959367\">Tirupati Dental Care Centre</a>"
+        ],
+        "photo_reference": "AdCG2DO52z94BX1kix1q1mcODmsSEt5sQ-xK0yq6ow5o-c6gFvpWAznjJLYIubImlfVvupjcW0oZB7D3gCjfcFv0DpSYrvyMar3Id4cZpMeFxSOqCiImh05Pj5dNTlfk2zRCxG-F5NQkdYWTRYb7ZUf6t2QOwmzAI1rA_eZn1UQ3gWFQ_yn0",
+        "width": 5701
+      }
+    ],
+    "place_id": "ChIJtweo62-Y2zsRbrFjlT5obzk",
+    "plus_code": {
+      "compound_code": "V8CH+VC Chhatrapati Sambhajinagar (Aurangabad), Maharashtra, India",
+      "global_code": "7JFQV8CH+VC"
+    },
+    "rating": 4.9,
+    "reference": "ChIJtweo62-Y2zsRbrFjlT5obzk",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 84,
+    "vicinity": "oppo Hotel Manor besides National Flag, Shri Nathji Apartment,Osmanpura Road, beside Dig Jam showroom, post, Chhatrapati Sambhajinagar (Aurangabad)"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 19.8779514,
+        "lng": 75.36311409999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 19.8792868802915,
+          "lng": 75.36446268029151
+        },
+        "southwest": {
+          "lat": 19.8765889197085,
+          "lng": 75.3617647197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Raman Dental Clinic",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 4898,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114762567542332868614\">Raman Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DM7hcZFyewZOVX8CY--KYh6-hbiYUYrZViNMs5LF3RvhnF0OIEIN9sXfy0ogLeRkiIAqzFxtjAHPsjyS-SspVbj8udn7UcWYml2qTUpRhI3FKswSKbSYMfreoHtMK-TXF7NGpG0vB5ljq5MOe9tF1S0kPKAHjRufnHUKDMdyx9hT3ee",
+        "width": 3265
+      }
+    ],
+    "place_id": "ChIJY7xpoxWY2zsR7M2z-oTtQNI",
+    "plus_code": {
+      "compound_code": "V9H7+56 Chhatrapati Sambhajinagar (Aurangabad), Maharashtra, India",
+      "global_code": "7JFQV9H7+56"
+    },
+    "rating": 5,
+    "reference": "ChIJY7xpoxWY2zsR7M2z-oTtQNI",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 81,
+    "vicinity": "A7, Gajanan Vaibhav Narayan Plaza, Cannought Garden, N 5, Cidco, Chhatrapati Sambhajinagar (Aurangabad)"
+  },
+  {
+    "business_status": "CLOSED_TEMPORARILY",
+    "geometry": {
+      "location": {
+        "lat": 19.876706,
+        "lng": 75.34460899999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 19.8780588302915,
+          "lng": 75.3460267302915
+        },
+        "southwest": {
+          "lat": 19.8753608697085,
+          "lng": 75.34332876970848
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "CITY DENTAL CENTRE",
+    "permanently_closed": true,
+    "photos": [
+      {
+        "height": 1771,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108098362425980146411\">CITY DENTAL CENTRE</a>"
+        ],
+        "photo_reference": "AdCG2DOKn2WXs91ud2wIA0DSfcxp5Itag4zMhmoJWZE53HoWeTw-JDKXYHWUUuBUt377K9UJvM42C_jaimzJgRKO4FWdTHynLqoiWjYK0x5WsTLxE-Mg00HV8gRQp1rLLiYghkzKx_Q5bnxMnAz1eEGeGmE8P8iFk_brr3sd8Fmdt_pEzl5w",
+        "width": 1180
+      }
+    ],
+    "place_id": "ChIJgbmsN5yi2zsRaGmY3PCIBiM",
+    "plus_code": {
+      "compound_code": "V8GV+MR Chhatrapati Sambhajinagar (Aurangabad), Maharashtra, India",
+      "global_code": "7JFQV8GV+MR"
+    },
+    "rating": 4.8,
+    "reference": "ChIJgbmsN5yi2zsRaGmY3PCIBiM",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 165,
+    "vicinity": "1st Floor, Mahaveer Complex, Above state bank of hyderabad, akashwani chowk, Jalna Road, Chhatrapati Sambhajinagar (Aurangabad)"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 19.876495,
+        "lng": 75.345623
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 19.8778456302915,
+          "lng": 75.3469718802915
+        },
+        "southwest": {
+          "lat": 19.8751476697085,
+          "lng": 75.3442739197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Bhute Spine Clinic And Orthodental Care",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 600,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114326413342181868450\">Dr Nilesh Bhute</a>"
+        ],
+        "photo_reference": "AdCG2DNt36GvMlSa1Nv_jX5t8BqUdvMCVbxI1Iefm9fFhiQBDGxAgzW7yKpk2R6hU5aImh1-LBHa3ljNLaBrxRi5PZtDNLTpeg0Y-KmCIKJk78Kdobb-Z0JpuU9IMAlvu3z_QehFT3EoPKaNN8FDNS517EAoE5SxfDJvXEUa6Em6SG9GsDTT",
+        "width": 960
+      }
+    ],
+    "place_id": "ChIJjZw9bJyi2zsRQdGuK6OvJ8Y",
+    "plus_code": {
+      "compound_code": "V8GW+H6 Chhatrapati Sambhajinagar (Aurangabad), Maharashtra, India",
+      "global_code": "7JFQV8GW+H6"
+    },
+    "rating": 4.8,
+    "reference": "ChIJjZw9bJyi2zsRQdGuK6OvJ8Y",
+    "scope": "GOOGLE",
+    "types": [
+      "physiotherapist",
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 77,
+    "vicinity": "Satya dharma complex, between rc bafna jewellers and atul honda showroom,, Aakashwani chowk, Chhatrapati Sambhajinagar (Aurangabad)"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 19.870074,
+        "lng": 75.3355
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 19.8713467302915,
+          "lng": 75.33686148029149
+        },
+        "southwest": {
+          "lat": 19.8686487697085,
+          "lng": 75.33416351970848
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "PARGAONKAR DENTAL CLINIC",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 1800,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105503902003256718571\">PARGAONKAR DENTAL CLINIC</a>"
+        ],
+        "photo_reference": "AdCG2DM2U9Ayj6KTkgl33h87rw6NnST6LjI5x5L4jnxPLfi1Y1O8i4KZWplyepqTJoVr9vvlR9sUeIK6dYnHm0EOY39Ml9QVCg5waYkUww2H0FO6F7ru0anm1ul470LgrxMQD4E-4AkY-myL3h6cLiYof9_Ua5phb1mDXpBmjz9vigXg3Zba",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJNYk59XmY2zsR-0qRpMTYWew",
+    "plus_code": {
+      "compound_code": "V8CP+25 Chhatrapati Sambhajinagar (Aurangabad), Maharashtra, India",
+      "global_code": "7JFQV8CP+25"
+    },
+    "rating": 5,
+    "reference": "ChIJNYk59XmY2zsR-0qRpMTYWew",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 38,
+    "vicinity": "Kalda Corner, Plot No.1/7, New Shreya Nagar, Rachana, Ramanagar, Chhatrapati Sambhajinagar (Aurangabad)"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 19.8629547,
+        "lng": 75.3389622
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 19.8643164302915,
+          "lng": 75.3402630802915
+        },
+        "southwest": {
+          "lat": 19.8616184697085,
+          "lng": 75.3375651197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "The Lotus Dental Care",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 641,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107799824067178346648\">The Lotus Dental Care</a>"
+        ],
+        "photo_reference": "AdCG2DPV9qqd-qtCj_GPws98atbgsH-JahTRb4HIecv9HP-AN0iXT2kEN0UJvlJkYoQim4430n_g2_cEHqZf5dT9tkimsg1o5MsOQccz7hGcnhaQhF2EFUH5erzI3mBVtRxb7I5DytdmUMhn01mfsIsYRgoxNrszQmmdJMYW-2OF88JonYNz",
+        "width": 1143
+      }
+    ],
+    "place_id": "ChIJ9TGZ8ICi2zsR0CyanvZodSU",
+    "plus_code": {
+      "compound_code": "V87Q+5H Chhatrapati Sambhajinagar (Aurangabad), Maharashtra, India",
+      "global_code": "7JFQV87Q+5H"
+    },
+    "rating": 5,
+    "reference": "ChIJ9TGZ8ICi2zsR0CyanvZodSU",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "hospital",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 8,
+    "vicinity": "near Paripurti Nursing Home, Shop No 1, Plot no 7, near Paripurti Nursing Home, opposite Amrutvel Hospital, Shrikrishna Nagar, Ulkanagari, Chhatrapati Sambhajinagar (Aurangabad)"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 19.8912328,
+        "lng": 75.3424038
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 19.8925252802915,
+          "lng": 75.3437401802915
+        },
+        "southwest": {
+          "lat": 19.8898273197085,
+          "lng": 75.3410422197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Naser Dental Care Centre",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 809,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107720395126163205005\">Naser Dental Care Centre</a>"
+        ],
+        "photo_reference": "AdCG2DOZ0_X_cJQpRIJ4XRe8zUWSYhdAkjTHbFMUG4s3MJpJnMTbyhbT9mOLwWIB_ThFv5aXCzdkIglD-YkO3mbEbNc2Zwhes2K8W_1egwEn05uuDdzYdNH8OKMDMeAbuLXOtIKZiEOZKOmRjTnuH3o1JY4xTwDtCx12-IGL0HG3UzAsH3vg",
+        "width": 1440
+      }
+    ],
+    "place_id": "ChIJwSn-aqei2zsRjNthTfL0PE4",
+    "plus_code": {
+      "compound_code": "V8RR+FX Chhatrapati Sambhajinagar (Aurangabad), Maharashtra, India",
+      "global_code": "7JFQV8RR+FX"
+    },
+    "rating": 5,
+    "reference": "ChIJwSn-aqei2zsRjNthTfL0PE4",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "hospital",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 21,
+    "vicinity": "Urdu School, Plot Number 20 Ahebab Colony, near Aneesa, Kat Kat Gate Road, Kat Kat Gate, N 10, Cidco, Chhatrapati Sambhajinagar (Aurangabad)"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 19.859564,
+        "lng": 75.345956
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 19.8609585802915,
+          "lng": 75.34722388029151
+        },
+        "southwest": {
+          "lat": 19.8582606197085,
+          "lng": 75.34452591970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dental & Oral Care Centre",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 2304,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115610850716029647721\">Dental &amp; Oral Care Centre</a>"
+        ],
+        "photo_reference": "AdCG2DOZfKXk2GHiCqnl1yoh7oFlQxRCv7lUCiNVLa-1SVrpL893w1pfGOyuUxngEdQweEUiwTNtmBnmTnsJ2F0CvYx1HiEbCaGyurlLzXGXFOtrDeG2-TYic2hHVpkSv9V8u4m5QrGgsFpGUlSgNNqH5JkfDyReRk7IaYspJzqJ3KjjhX9l",
+        "width": 3456
+      }
+    ],
+    "place_id": "ChIJwVw7KoSi2zsRYcnlY9GzOKs",
+    "plus_code": {
+      "compound_code": "V85W+R9 Chhatrapati Sambhajinagar (Aurangabad), Maharashtra, India",
+      "global_code": "7JFQV85W+R9"
+    },
+    "rating": 5,
+    "reference": "ChIJwVw7KoSi2zsRYcnlY9GzOKs",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 45,
+    "vicinity": "Block number 8, First floor, Disha Square Building, near Devgiri Bank, behind Gajanan Book Store, Sutgirni Chowk, Chhatrapati Sambhajinagar (Aurangabad)"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 19.8773908,
+        "lng": 75.3231526
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 19.8787438302915,
+          "lng": 75.3244301302915
+        },
+        "southwest": {
+          "lat": 19.8760458697085,
+          "lng": 75.3217321697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "The Tooth Clinic",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100639706941411169130\">Indiacom Ltd</a>"
+        ],
+        "photo_reference": "AdCG2DOIGHkuGNO3oShp1FjNfdOz2PQOw6Z4UBVrBPEVxGJPaUIZqJXEp9Meci91lZNH9vUJAy78eC2dc9pGaS0YvcLRihUNE75ckYTkTODwG22sm8NIeZaw6rDbwsUx6m130zz9JBt4tt3wGQLszO47j-FRIYlW5NYl3wtGEUumpnaX5v0X",
+        "width": 5184
+      }
+    ],
+    "place_id": "ChIJYeo88muY2zsR2ozaeXnKsjc",
+    "plus_code": {
+      "compound_code": "V8GF+X7 Chhatrapati Sambhajinagar (Aurangabad), Maharashtra, India",
+      "global_code": "7JFQV8GF+X7"
+    },
+    "rating": 4.9,
+    "reference": "ChIJYeo88muY2zsR2ozaeXnKsjc",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 28,
+    "vicinity": "Plot no. 5 Sahajeevan co op society, Opp. Vawan Hari Pethe Jewellers, Samarth Nagar, Chhatrapati Sambhajinagar (Aurangabad)"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 19.8788747,
+        "lng": 75.3637627
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 19.8801700302915,
+          "lng": 75.3651131802915
+        },
+        "southwest": {
+          "lat": 19.8774720697085,
+          "lng": 75.3624152197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Sharda Dental Hospital",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 2304,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112033057896688888654\">DR ANIKET BADWE</a>"
+        ],
+        "photo_reference": "AdCG2DO3Tsw0DmFFrCF9AbzSLJvsg1fLh_cwNefV_mMqKuvAAZIpF5RvQBBv4LnHQBBG009iyrMwCgYwDnjUlgBKWZNkv63NsS5E5c2jkJBiBCDvqOHT35Xjaxl3qvQySL6VG1r7Voi90zDgtkD2VZ3VHFKbRs9wEYIXez4WIWqqbe6CT-QS",
+        "width": 4096
+      }
+    ],
+    "place_id": "ChIJh_1fRZOi2zsRoVBMptzubUo",
+    "plus_code": {
+      "compound_code": "V9H7+GG Chhatrapati Sambhajinagar (Aurangabad), Maharashtra, India",
+      "global_code": "7JFQV9H7+GG"
+    },
+    "rating": 4.4,
+    "reference": "ChIJh_1fRZOi2zsRoVBMptzubUo",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 7,
+    "vicinity": "Anjana Complex, Opp. Cannought Garden North Gate, Near Bombay Stationery, Cannought Place, CIDCO Cannought, Cidco, Chhatrapati Sambhajinagar (Aurangabad)"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 19.8762,
+        "lng": 75.3433
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 19.8775306802915,
+          "lng": 75.34465163029151
+        },
+        "southwest": {
+          "lat": 19.8748327197085,
+          "lng": 75.34195366970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. Bhagyashree Ambewadikar",
+    "opening_hours": {
+      "open_now": false
+    },
+    "place_id": "ChIJr_aUYjqj2zsRFxriRMBelXQ",
+    "plus_code": {
+      "compound_code": "V8GV+F8 Chhatrapati Sambhajinagar (Aurangabad), Maharashtra, India",
+      "global_code": "7JFQV8GV+F8"
+    },
+    "reference": "ChIJr_aUYjqj2zsRFxriRMBelXQ",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "hospital",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Indrayani Multispeciality Dental Clinic, Bajrang Chowk Road, N-6, Cidco, Chhatrapati Sambhajinagar (Aurangabad)"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 19.8765577,
+        "lng": 75.3443104
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 19.8778028302915,
+          "lng": 75.3456759302915
+        },
+        "southwest": {
+          "lat": 19.8751048697085,
+          "lng": 75.34297796970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Goklani's Dental & Cosmetic Clinic",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 643,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115015143918328010838\">Goklani&#39;s Dental &amp; Cosmetic Clinic, Aurangabad</a>"
+        ],
+        "photo_reference": "AdCG2DMX2_Xv42pk1fjVILB-g9aoIy8uaHvicuEq7EHL4Lp2i5-RLLGrz9bE7yfNJk8cgQZyPvfIiqaU1Z85Ad_lJ-HqGqT7e5Es6Tz-_I_vD1_KzN3NKhjvCvk2nuRcB9ZZZIuJ8mu00K2DMBclGcXAPComMeN7Xurl_9m9xDuUlcjW1s92",
+        "width": 854
+      }
+    ],
+    "place_id": "ChIJsRXgv_Cj2zsRqzQ9aEUzdEo",
+    "plus_code": {
+      "compound_code": "V8GV+JP Chhatrapati Sambhajinagar (Aurangabad), Maharashtra, India",
+      "global_code": "7JFQV8GV+JP"
+    },
+    "rating": 4.6,
+    "reference": "ChIJsRXgv_Cj2zsRqzQ9aEUzdEo",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "hair_care",
+      "beauty_salon",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 41,
+    "vicinity": "opp. Akashwani Kendra, near Medical, Jalna Road, Chhatrapati Sambhajinagar (Aurangabad)"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 19.8773142,
+        "lng": 75.3446933
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 19.8786620802915,
+          "lng": 75.3460235302915
+        },
+        "southwest": {
+          "lat": 19.8759641197085,
+          "lng": 75.34332556970848
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Shri Mahavir Dental Speciality Clinic",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104983411383822335966\">AKD D</a>"
+        ],
+        "photo_reference": "AdCG2DOh6KYTjgdbF4tqXVi51pH00rFs3_dAOC3lKoOMck2vcSe4wyP8OswkTjjGEmAOxOBUeS7tf_0d7YYXWYX3m0m-BLUqx5HPte5qxVaZPTFMyz6cQkWNTLYiJn0eAhWuFf-KTlbm0Dm4BFRd-mKG5Ph6U6ZFN3LHUvZXxIIVQonUFn53",
+        "width": 1920
+      }
+    ],
+    "place_id": "ChIJ_Y-1BDCZ2zsRkSNClKb9bf8",
+    "plus_code": {
+      "compound_code": "V8GV+WV Chhatrapati Sambhajinagar (Aurangabad), Maharashtra, India",
+      "global_code": "7JFQV8GV+WV"
+    },
+    "rating": 4.8,
+    "reference": "ChIJ_Y-1BDCZ2zsRkSNClKb9bf8",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 4,
+    "vicinity": "Ahinsanagar, Chhatrapati Sambhajinagar (Aurangabad)"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 19.8769391,
+        "lng": 75.3465271
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 19.8783351302915,
+          "lng": 75.34788768029149
+        },
+        "southwest": {
+          "lat": 19.8756371697085,
+          "lng": 75.34518971970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Relief Dental Clinic",
+    "place_id": "ChIJgY6NBfSj2zsRmZMYUAVRaLc",
+    "reference": "ChIJgY6NBfSj2zsRmZMYUAVRaLc",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "V8GW+QJC, First floor satyadharm complex akashwani chowk"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 19.8763314,
+        "lng": 75.3467483
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 19.8776803802915,
+          "lng": 75.34809728029151
+        },
+        "southwest": {
+          "lat": 19.87498241970849,
+          "lng": 75.3453993197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. Seemit Shah",
+    "place_id": "ChIJTSS5dpyi2zsRDD-jRzrljdY",
+    "plus_code": {
+      "compound_code": "V8GW+GM Chhatrapati Sambhajinagar (Aurangabad), Maharashtra, India",
+      "global_code": "7JFQV8GW+GM"
+    },
+    "rating": 4.7,
+    "reference": "ChIJTSS5dpyi2zsRDD-jRzrljdY",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 14,
+    "vicinity": "Apex Hospital Road, Jalna Road, Chhatrapati Sambhajinagar (Aurangabad)"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 19.876952,
+        "lng": 75.346707
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 19.8783149802915,
+          "lng": 75.3480594302915
+        },
+        "southwest": {
+          "lat": 19.8756170197085,
+          "lng": 75.3453614697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "BANG DENTAL CLINIC",
+    "place_id": "ChIJB61cRpyi2zsRumYDl3zXl4A",
+    "plus_code": {
+      "compound_code": "V8GW+QM Chhatrapati Sambhajinagar (Aurangabad), Maharashtra, India",
+      "global_code": "7JFQV8GW+QM"
+    },
+    "rating": 5,
+    "reference": "ChIJB61cRpyi2zsRumYDl3zXl4A",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "7, Jalna Road, Mahesh Nagar, Chhatrapati Sambhajinagar (Aurangabad)"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 19.8731629,
+        "lng": 75.345924
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 19.8745405302915,
+          "lng": 75.3472711802915
+        },
+        "southwest": {
+          "lat": 19.8718425697085,
+          "lng": 75.3445732197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Jain Clinic",
+    "place_id": "ChIJEc2MuZyi2zsRYbdCF0Bt2tI",
+    "reference": "ChIJEc2MuZyi2zsRYbdCF0Bt2tI",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "V8FW+797, Bhanudas Nagar, Jawahar Nagar, Chhatrapati Sambhajinagar (Aurangabad)"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 19.8791115,
+        "lng": 75.347072
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 19.8804473302915,
+          "lng": 75.3485233302915
+        },
+        "southwest": {
+          "lat": 19.8777493697085,
+          "lng": 75.34582536970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr Smita Shinde - Best Dentist In Aurangabad, Root Canal Specialist & Dental Implant Surgeon",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 668,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/113483189284302702011\">Dr Smita Shinde - Dentist In Aurangabad</a>"
+        ],
+        "photo_reference": "AdCG2DNeVeueKr7R8dMwt17BTxoUvCYvAaDj1zjdmHvVcxZ5HvNWC8-t7aCEp_tTWK5ghTU_zkNOigcQXYm1PkJB19Baacurq4QhSylsVQTXviSsG7pkHdtpYbh2WDW_58hPOGrQqnJRpTDjjyTG7OmV2asqb-98xiCo0E2iraEZ7E8CwwV9",
+        "width": 1280
+      }
+    ],
+    "place_id": "ChIJGSDSaTGj2zsRV-Dv39z5XmY",
+    "plus_code": {
+      "compound_code": "V8HW+JR Chhatrapati Sambhajinagar (Aurangabad), Maharashtra, India",
+      "global_code": "7JFQV8HW+JR"
+    },
+    "rating": 5,
+    "reference": "ChIJGSDSaTGj2zsRV-Dv39z5XmY",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 31,
+    "vicinity": "Plot No.11, Carewell Superspeciality Hospital, opp. S.F.S School, Jalna Road, Venkatesh Nagar, New Usmanpura, Chhatrapati Sambhajinagar (Aurangabad)"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 19.8699911,
+        "lng": 75.3462412
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 19.8713878802915,
+          "lng": 75.34759133029151
+        },
+        "southwest": {
+          "lat": 19.8686899197085,
+          "lng": 75.3448933697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dwarka Dental Clinic",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 465,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107151833958716740841\">Dwarka Dental Clinic - Best Dentist | Best Roots Canal | Implant Centre | Best Dental Clinic in Aurangabad</a>"
+        ],
+        "photo_reference": "AdCG2DOniQKxJQFKfwAaYmKKUlSgdgynSb05stTY25OtpXrtLyClTeWs0lstV3BvqdawqdGHETiaY8pg-4of_cDMZpwZVMaxHBP4bUuItDP_njDr98Puf_q7engAum8CwR73fhFQ3t51oo0n-qJOTij65JLmkTNg6RTowCNNWJQQrnbQf9EP",
+        "width": 828
+      }
+    ],
+    "place_id": "ChIJY7xpoxWY2zsRRFwd0ELty30",
+    "plus_code": {
+      "compound_code": "V89W+XF Chhatrapati Sambhajinagar (Aurangabad), Maharashtra, India",
+      "global_code": "7JFQV89W+XF"
+    },
+    "rating": 4.9,
+    "reference": "ChIJY7xpoxWY2zsRRFwd0ELty30",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "store",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 18,
+    "vicinity": "First Floor, Chetan Super Market, Trimurti Chowk, Jawahar Colony, Trimurti Chowk, Chhatrapati Sambhajinagar (Aurangabad)"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 19.8699507,
+        "lng": 75.34671329999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 19.8713618802915,
+          "lng": 75.34806638029151
+        },
+        "southwest": {
+          "lat": 19.8686639197085,
+          "lng": 75.3453684197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "अष्टविनायक Dental Clinic & Implant Center",
+    "place_id": "ChIJwzZsfIOi2zsRDMe9CFhjLyw",
+    "plus_code": {
+      "compound_code": "V89W+XM Chhatrapati Sambhajinagar (Aurangabad), Maharashtra, India",
+      "global_code": "7JFQV89W+XM"
+    },
+    "rating": 4,
+    "reference": "ChIJwzZsfIOi2zsRDMe9CFhjLyw",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "India"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 19.8834133,
+        "lng": 75.3407448
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 19.8847202302915,
+          "lng": 75.3421129302915
+        },
+        "southwest": {
+          "lat": 19.8820222697085,
+          "lng": 75.3394149697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Anmol",
+    "place_id": "ChIJ1xeCG1Oj2zsRRiqQdMX65o8",
+    "plus_code": {
+      "compound_code": "V8MR+97 Chhatrapati Sambhajinagar (Aurangabad), Maharashtra, India",
+      "global_code": "7JFQV8MR+97"
+    },
+    "reference": "ChIJ1xeCG1Oj2zsRRiqQdMX65o8",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "N-3-5-712, Sanjay Nagar, Mondha, Chhatrapati Sambhajinagar (Aurangabad)"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 19.8714302,
+        "lng": 75.33614279999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 19.8728902802915,
+          "lng": 75.33752458029149
+        },
+        "southwest": {
+          "lat": 19.87019231970849,
+          "lng": 75.33482661970848
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "CareKid Dental Center",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 1280,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/104633758206989784582\">CareKid Dental Center</a>"
+        ],
+        "photo_reference": "AdCG2DNvEOM_cqNyhi1O583cHNhYoohaXa7tB5oMZnKWIzECBJv3umP0ThcEJqfSTcZY9hKqx1mZqQwySvLaWv6zV3QCzmaW7FWdZSOHYML02MUw6y6Zf3PoLNprjF0vtU47jXTZjJMVnR_4PFcajq56a5nAak_7uvLaaxtSoDfGHNiFR1Kc",
+        "width": 960
+      }
+    ],
+    "place_id": "ChIJq4NVzbCZ2zsRmO9HtvpI2QE",
+    "plus_code": {
+      "compound_code": "V8CP+HF Chhatrapati Sambhajinagar (Aurangabad), Maharashtra, India",
+      "global_code": "7JFQV8CP+HF"
+    },
+    "rating": 5,
+    "reference": "ChIJq4NVzbCZ2zsRmO9HtvpI2QE",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 127,
+    "vicinity": "Office no. 217, 1st floor, Matrix Business center, Kalda Corner, Chetana Nagar, Chhatrapati Sambhajinagar (Aurangabad)"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 19.8713533,
+        "lng": 75.3360833
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 19.8726840302915,
+          "lng": 75.33734543029149
+        },
+        "southwest": {
+          "lat": 19.8699860697085,
+          "lng": 75.33464746970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Sarvadnya Advance Dental Care",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105745202376485908816\">Sarvadnya Advance Dental Care, Ch Sambhajinagar, Aurangabad</a>"
+        ],
+        "photo_reference": "AdCG2DP0rSTT3V-ut4vV9d0Q9jfqiK5HpLWuEyumGay5GLjzwb_ubXJh7egces10hocB-AvKhlHG5_nTYZQKnXn963l33Oae0ir6-Hm_wRV-B902VsnBf9yT_5vxVI2WI8ioXYF2IWCco1FEzkRMklmauBF0mm8UqaVSAPfY_tadh2FNKxcL",
+        "width": 3024
+      }
+    ],
+    "place_id": "ChIJhRdu-weZ2zsRdeLtn1G2KMY",
+    "plus_code": {
+      "compound_code": "V8CP+GC Chhatrapati Sambhajinagar (Aurangabad), Maharashtra, India",
+      "global_code": "7JFQV8CP+GC"
+    },
+    "rating": 5,
+    "reference": "ChIJhRdu-weZ2zsRdeLtn1G2KMY",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 326,
+    "vicinity": "Ground Floor, Matrix Complex, Shop No. 118, 119, Kalda Corner, Chhatrapati Sambhajinagar (Aurangabad)"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 19.8713001,
+        "lng": 75.3360189
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 19.8726385302915,
+          "lng": 75.33731768029149
+        },
+        "southwest": {
+          "lat": 19.86994056970849,
+          "lng": 75.33461971970848
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Crowns n Braces Orthodontic & Implant Dental clinic",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102273752180652424219\">Crowns n Braces Orthodontic &amp; Implant Dental clinic</a>"
+        ],
+        "photo_reference": "AdCG2DNmcujhBvTKcPnHK_I9HPyPZgXTcRmckm7EwPEiKrlCRQfBaDKAC8jnW3465RPU5Zh1zlDak5OeaDN8cCLjuHEZNFdbaGMI5hUuSzMUHtT9OZRBtYcF4drzp_akmD6-H02Dh05y7APEVfSp_aqRLz8lVh_5-e7Rg9yvaZRXGUWEZXA",
+        "width": 3120
+      }
+    ],
+    "place_id": "ChIJ8e9r3sKZ2zsRROftjoj896Y",
+    "plus_code": {
+      "compound_code": "V8CP+GC Chhatrapati Sambhajinagar (Aurangabad), Maharashtra, India",
+      "global_code": "7JFQV8CP+GC"
+    },
+    "rating": 5,
+    "reference": "ChIJ8e9r3sKZ2zsRROftjoj896Y",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 19,
+    "vicinity": "3rd floor, Matrix business center, opposite HP petrol pump, above sudarshan netralay, Kalda Corner, Chhatrapati Sambhajinagar (Aurangabad)"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 19.8676235,
+        "lng": 75.3421882
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 19.8689888302915,
+          "lng": 75.34346083029149
+        },
+        "southwest": {
+          "lat": 19.8662908697085,
+          "lng": 75.34076286970848
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Kranti Dental Care",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 1040,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107251312385105239950\">Kranti Dental Care - Best dental clinic in Aurangabad/Root Canal/Laser/Cosmetic/Implantologist/Crown/Implants/Tooth Filling</a>"
+        ],
+        "photo_reference": "AdCG2DMlqL7SIihbElqGq_OBTQNDSMkRjF8JmNVODV1CvGr1hjPWj7XzPvBfGoKY-s53nSmD3b1a3QN7pEXgn-NiszP_Lb6E7MoeuSbI_SkNSO5C6viy_OsLvWcFp2hKEpyFWG4h-lwz3AS0hrC-FeUZLA2n1q5-Er7LhB4HZGUa9Rxn0q3m",
+        "width": 493
+      }
+    ],
+    "place_id": "ChIJVVVVlWSY2zsR98W-dM72M2c",
+    "plus_code": {
+      "compound_code": "V89R+2V Chhatrapati Sambhajinagar (Aurangabad), Maharashtra, India",
+      "global_code": "7JFQV89R+2V"
+    },
+    "rating": 4.9,
+    "reference": "ChIJVVVVlWSY2zsR98W-dM72M2c",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 124,
+    "vicinity": "Om 25, Shri Vyankatesh Housing Society, jawahar Colony Area, Near Chetak Chetak ghoda Chowk, Chhatrapati Sambhajinagar (Aurangabad)"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 19.8753392,
+        "lng": 75.3339116
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 19.8766761802915,
+          "lng": 75.3351950302915
+        },
+        "southwest": {
+          "lat": 19.8739782197085,
+          "lng": 75.3324970697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. Tejal Pallod DentalWorld Dental Clinic & Implant Center",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 2356,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100162820175725996146\">DentalWorld Dental Clinic &amp; Implant Center</a>"
+        ],
+        "photo_reference": "AdCG2DMCEoupnE-ufv4kMBr8uIHrxn3ER-PnIldLDhcqf0TrxiMG0UFqbzjHmQlt8rbnq06YDJZ0yuwPi7iDYz4vkat2Tw59p6Fsg4fxPyhEQEKuKk59UmQdEiHBeI-PEW8_oACRlN402lPEJ6J8qqrOg55pEGD3te89WgDHpp-T8c1rKXFN",
+        "width": 4192
+      }
+    ],
+    "place_id": "ChIJC3HnEkWZ2zsR4V7a8k1ezXc",
+    "plus_code": {
+      "compound_code": "V8GM+4H Chhatrapati Sambhajinagar (Aurangabad), Maharashtra, India",
+      "global_code": "7JFQV8GM+4H"
+    },
+    "rating": 5,
+    "reference": "ChIJC3HnEkWZ2zsR4V7a8k1ezXc",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 101,
+    "vicinity": "beside hotel amarpreet, Jalna road, second floor, Oberoi chamber, beside hotel amarpreet"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 19.8850956,
+        "lng": 75.3414913
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 19.88642838029151,
+          "lng": 75.34283748029151
+        },
+        "southwest": {
+          "lat": 19.8837304197085,
+          "lng": 75.3401395197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "PEARL DENTAL CLINIC",
+    "place_id": "ChIJqU2hdKCi2zsRjt9o_-sXr1g",
+    "reference": "ChIJqU2hdKCi2zsRjt9o_-sXr1g",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "V8PR+2HQ, Jinsi Police Station Road, Nawabpura, Mondha, Chhatrapati Sambhajinagar (Aurangabad)"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 19.8725113,
+        "lng": 75.3523117
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 19.8738653302915,
+          "lng": 75.35360053029152
+        },
+        "southwest": {
+          "lat": 19.8711673697085,
+          "lng": 75.3509025697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Shinde Speciality Dental & Implant Center",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 4624,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111258500172263598414\">Shinde Speciality Dental &amp; Implant Center</a>"
+        ],
+        "photo_reference": "AdCG2DO8dGUJ-hatNyCkLC5_283mglttkrm5wDwq7_KAHbwyrDFrVgTCbcnOqJCiFTwboDPfE54jqhMGOKAl-D-BCIGNnus_JfEoR1SyeSrAMeEDDGJPXY_FmW6mSew8iqjb_18AyzUGt-5-nemkLvNbFdbhwrMzV_6iy_oyNm0l0o9OBuDG",
+        "width": 3472
+      }
+    ],
+    "place_id": "ChIJqxrOe5Sj2zsR_ozG9rrl3LQ",
+    "plus_code": {
+      "compound_code": "V9F2+2W Chhatrapati Sambhajinagar (Aurangabad), Maharashtra, India",
+      "global_code": "7JFQV9F2+2W"
+    },
+    "rating": 5,
+    "reference": "ChIJqxrOe5Sj2zsR_ozG9rrl3LQ",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 103,
+    "vicinity": "Goodman's Residency, Shop No. 2 7 hills, near HDFC bank, to, Gajanan Maharaj Mandir Road, Chhatrapati Sambhajinagar (Aurangabad)"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 19.869906,
+        "lng": 75.3359384
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 19.8712956802915,
+          "lng": 75.33727818029152
+        },
+        "southwest": {
+          "lat": 19.8685977197085,
+          "lng": 75.33458021970851
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. Patil's Complete Dental Solutions",
+    "place_id": "ChIJq24CjXmY2zsRiMve1uk7C30",
+    "plus_code": {
+      "compound_code": "V89P+X9 Chhatrapati Sambhajinagar (Aurangabad), Maharashtra, India",
+      "global_code": "7JFQV89P+X9"
+    },
+    "reference": "ChIJq24CjXmY2zsRiMve1uk7C30",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "India"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 19.8696598,
+        "lng": 75.3361304
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 19.8710133802915,
+          "lng": 75.33757353029151
+        },
+        "southwest": {
+          "lat": 19.8683154197085,
+          "lng": 75.3348755697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "JAMBURE DENTAL CLINIC",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 853,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107634117596305591270\">Nagessh Jammbure</a>"
+        ],
+        "photo_reference": "AdCG2DMk50Mx1Uqb44p3tJ71RnvkQBV7GpIbzH68AxreBx2CNxOPBs3e9gW4E6D90XGIDxqUUu553bIa4LF2HE-9VIqukxrgXRx-UzwYTnUUTHn5TMitBL9UB8_22jx9lGKBr_YsrQ5X0zgLFZ1DHDt4F2kmArhjz-wOVhSZolRC0vXnpC4",
+        "width": 1280
+      }
+    ],
+    "place_id": "ChIJt54j83mY2zsR0TqyCYsqrzg",
+    "plus_code": {
+      "compound_code": "V89P+VF Chhatrapati Sambhajinagar (Aurangabad), Maharashtra, India",
+      "global_code": "7JFQV89P+VF"
+    },
+    "rating": 4.8,
+    "reference": "ChIJt54j83mY2zsR0TqyCYsqrzg",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 79,
+    "vicinity": "near hdfc bank, Siddhi arcade, near hdfc bank, Darga Road, Kalda Corner, Chhatrapati Sambhajinagar (Aurangabad)"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 19.866682,
+        "lng": 75.34190079999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 19.8680651802915,
+          "lng": 75.3432554302915
+        },
+        "southwest": {
+          "lat": 19.8653672197085,
+          "lng": 75.3405574697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. Pallavi Gokhale",
+    "opening_hours": {
+      "open_now": false
+    },
+    "place_id": "ChIJwYhM0U2j2zsRME3_neqMe2U",
+    "plus_code": {
+      "compound_code": "V88R+MQ Chhatrapati Sambhajinagar (Aurangabad), Maharashtra, India",
+      "global_code": "7JFQV88R+MQ"
+    },
+    "reference": "ChIJwYhM0U2j2zsRME3_neqMe2U",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Plot No 50, opp. Sapna Super Market, Chetak Ghoda Chowk, Jai Vishwa Bharti Colony, Chhatrapati Sambhajinagar (Aurangabad)"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 19.8665877,
+        "lng": 75.3441102
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 19.8678502802915,
+          "lng": 75.34543223029151
+        },
+        "southwest": {
+          "lat": 19.8651523197085,
+          "lng": 75.3427342697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Ambulgekar’s Smilax Dental Care",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 900,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101640782706832845959\">Ambulgekar’s Smilax Dental Care</a>"
+        ],
+        "photo_reference": "AdCG2DO3BYVhMjU8xGzKN24AUligWdHK5kWb_BehQokvAsc733AEaa1ADUeggo5r8KGc0F5XVEU3zRRe5Rsqy1tdjEUjdaTnxW5-Ea138scczzH2v7myjF0rR0QdAAsVKGvlPEjf256didT_lDrk964gtM1beZMhVWB9AuSBa6aAsb-gcJcB",
+        "width": 1600
+      }
+    ],
+    "place_id": "ChIJpU-CdmOj2zsRFgCQoAJM0z4",
+    "plus_code": {
+      "compound_code": "V88V+JJ Chhatrapati Sambhajinagar (Aurangabad), Maharashtra, India",
+      "global_code": "7JFQV88V+JJ"
+    },
+    "rating": 5,
+    "reference": "ChIJpU-CdmOj2zsRFgCQoAJM0z4",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 37,
+    "vicinity": "Flat no1, Vaibhavshree Apartment, near Chetak ghoda, Agnihotri Chowk Road, Sindhi Colony, Chhatrapati Sambhajinagar (Aurangabad)"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 19.8662563,
+        "lng": 75.34426839999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 19.8675728302915,
+          "lng": 75.3456069802915
+        },
+        "southwest": {
+          "lat": 19.86487486970849,
+          "lng": 75.3429090197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Om Dental clinic",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 1080,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100371463933354710168\">DR.JYOTI DESHPANDE</a>"
+        ],
+        "photo_reference": "AdCG2DPS032EcJEyaaBa4u7dn1dYlkfYUZP_0VTNBcfUyTC2Qn2f0iXwumdnPLcc7om5tVV89VRBfTLNIfWHuiKthbtwKpIfTc8CA2oo6CiZjn2sPxqt4U2q7Y_uHlpME1zHhMn-hU_C5ePRM-Idm4NNJbtulYsJ5uLylu34QtuBb4rd6JAh",
+        "width": 1920
+      }
+    ],
+    "place_id": "ChIJqTLOPqaj2zsRgNe3CJ80foM",
+    "plus_code": {
+      "compound_code": "V88V+GP Chhatrapati Sambhajinagar (Aurangabad), Maharashtra, India",
+      "global_code": "7JFQV88V+GP"
+    },
+    "rating": 5,
+    "reference": "ChIJqTLOPqaj2zsRgNe3CJ80foM",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 6,
+    "vicinity": "Om dental clinic, Ulkanagari Road, Chhatrapati Sambhajinagar (Aurangabad)"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 19.8658246,
+        "lng": 75.3450948
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 19.8671965802915,
+          "lng": 75.3463735302915
+        },
+        "southwest": {
+          "lat": 19.8644986197085,
+          "lng": 75.34367556970848
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "बालाजी दातांचा दवाखाना",
+    "place_id": "ChIJteqXZYGi2zsRIqmsVg2ie08",
+    "reference": "ChIJteqXZYGi2zsRIqmsVg2ie08",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "V88W+82H, Golvalkar Guruji Marg, Basant Bahar, Ulkanagari, Chhatrapati Sambhajinagar (Aurangabad)"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 19.882472,
+        "lng": 75.3522629
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 19.8838221802915,
+          "lng": 75.35360823029151
+        },
+        "southwest": {
+          "lat": 19.8811242197085,
+          "lng": 75.35091026970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. Wahab Shaikh",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 400,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115073100392869866818\">Dr. Wahab Shaikh</a>"
+        ],
+        "photo_reference": "AdCG2DMqbMc2fTMHqdPwc-PpSgfGsOBhK33Q3yRLwcOywD8LQHHFcncnoZnAUsD-kFumT_zmuClzvkAbORm4HkrMUd_g-Xdzo3fbhoUND4KGFXj8jyZxHIyStq49EeZ3zrag884OW6Z6H53ykqJwH3tkkclY9D8PWwVAymHaR9IOiQ9u92RU",
+        "width": 400
+      }
+    ],
+    "place_id": "ChIJu4wMqQyZ2zsRXs_WhcFdoSo",
+    "plus_code": {
+      "compound_code": "V9J2+XW Chhatrapati Sambhajinagar (Aurangabad), Maharashtra, India",
+      "global_code": "7JFQV9J2+XW"
+    },
+    "rating": 5,
+    "reference": "ChIJu4wMqQyZ2zsRXs_WhcFdoSo",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 6,
+    "vicinity": "Noor Super Speciality Dental Hospital & Cancer Clinic, opp. Buddh Vihar, near Rahat Hospital, Galli Number 18, Baijipura, Chhatrapati Sambhajinagar (Aurangabad)"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 19.868032,
+        "lng": 75.350527
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 19.8694142302915,
+          "lng": 75.3517982802915
+        },
+        "southwest": {
+          "lat": 19.86671626970849,
+          "lng": 75.34910031970848
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dental & Oral Care Centre",
+    "place_id": "ChIJbaDWyIWi2zsRXqcYRQbWE-o",
+    "plus_code": {
+      "compound_code": "V992+66 Chhatrapati Sambhajinagar (Aurangabad), Maharashtra, India",
+      "global_code": "7JFQV992+66"
+    },
+    "reference": "ChIJbaDWyIWi2zsRXqcYRQbWE-o",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "7, Garkheda Rd, Sarang Housing Society, Gajanan Maharaj Mandir Chowk, Garkheda, Chhatrapati Sambhajinagar (Aurangabad)"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 19.86653159999999,
+        "lng": 75.3375662
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 19.8679337302915,
+          "lng": 75.33891368029151
+        },
+        "southwest": {
+          "lat": 19.86523576970849,
+          "lng": 75.3362157197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr Ghunawat Microdentistry",
+    "opening_hours": {
+      "open_now": false
+    },
+    "place_id": "ChIJOVYAMHmY2zsRCyPjj-gfcHQ",
+    "plus_code": {
+      "compound_code": "V88Q+J2 Chhatrapati Sambhajinagar (Aurangabad), Maharashtra, India",
+      "global_code": "7JFQV88Q+J2"
+    },
+    "rating": 4.9,
+    "reference": "ChIJOVYAMHmY2zsRCyPjj-gfcHQ",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 15,
+    "vicinity": "119,Behind Roplekar Hospital, Krishnaparijat, Tilaknagar, New Usmanpura, Chhatrapati Sambhajinagar (Aurangabad)"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 19.8649132,
+        "lng": 75.3425172
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 19.8662851802915,
+          "lng": 75.3438311302915
+        },
+        "southwest": {
+          "lat": 19.8635872197085,
+          "lng": 75.3411331697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Somulwar Dental Clinic and Root Canal Centre",
+    "opening_hours": {
+      "open_now": false
+    },
+    "place_id": "ChIJaw36N8yj2zsR0Zgwp7SK02Q",
+    "plus_code": {
+      "compound_code": "V87V+X2 Chhatrapati Sambhajinagar (Aurangabad), Maharashtra, India",
+      "global_code": "7JFQV87V+X2"
+    },
+    "reference": "ChIJaw36N8yj2zsR0Zgwp7SK02Q",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Khivansara park, Chhatrapati Sambhajinagar (Aurangabad)"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 19.865496,
+        "lng": 75.3472768
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 19.8667976302915,
+          "lng": 75.3485979802915
+        },
+        "southwest": {
+          "lat": 19.86409966970849,
+          "lng": 75.3459000197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Arham Dental Clinic",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/111951638507313816030\">indiacom limited</a>"
+        ],
+        "photo_reference": "AdCG2DPHnTs-x5ZnM-4UDwxNg-8jjn-lrrVwXv3OdpVP--HcMvurBbZgySYJEq08ZdwZK0u_0QAZUl3BQ9hb6_2LfbZo6Jg1kgLLvW4hhWQAw2UnAOJVPHWB3XVpBmxymoXe7C3hLTpa-Z86WqWpMpIG1HpTtl6re7gxF48ZSlmcYFuPKgbG",
+        "width": 5184
+      }
+    ],
+    "place_id": "ChIJs_TTuJSj2zsRzgAMQCeQE3M",
+    "plus_code": {
+      "compound_code": "V88W+5W Chhatrapati Sambhajinagar (Aurangabad), Maharashtra, India",
+      "global_code": "7JFQV88W+5W"
+    },
+    "rating": 4.6,
+    "reference": "ChIJs_TTuJSj2zsRzgAMQCeQE3M",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 5,
+    "vicinity": "Shop No.F, khivansara Mayfair, near Eknat Hospital, 08, Ulkanagari Road, Chhatrapati Sambhajinagar (Aurangabad)"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 19.8644794,
+        "lng": 75.3440924
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 19.8657901302915,
+          "lng": 75.3455290302915
+        },
+        "southwest": {
+          "lat": 19.8630921697085,
+          "lng": 75.3428310697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Shree Jeevan Dental Care",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 4160,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117314687184693647105\">Shree Jeevan Dental Care</a>"
+        ],
+        "photo_reference": "AdCG2DPALQ55NMa-qQjuqQepM5X6x2LoZtZY0D8DDOjfj5oGdYKLdOBPbSx97A-St5MiUgz3K9C9nllYk7daa7zK3zS7i1zSAhWy4cCWceG8vNvSkgrvqffJBTDVdvdA7c3mMY_YDsqXD3qpV7VlqDA9_DejmTIB96MnZZE97f4RcL2BSnk4",
+        "width": 3120
+      }
+    ],
+    "place_id": "ChIJuUtBN8yj2zsRjZEH3oMllCU",
+    "plus_code": {
+      "compound_code": "V87V+QJ Chhatrapati Sambhajinagar (Aurangabad), Maharashtra, India",
+      "global_code": "7JFQV87V+QJ"
+    },
+    "rating": 5,
+    "reference": "ChIJuUtBN8yj2zsRjZEH3oMllCU",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 5,
+    "vicinity": "Shop no. F16, 1st floor, August High Street Complex, Ulkanagari, Chhatrapati Sambhajinagar (Aurangabad)"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 19.888076,
+        "lng": 75.343009
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 19.88939643029151,
+          "lng": 75.3443567802915
+        },
+        "southwest": {
+          "lat": 19.8866984697085,
+          "lng": 75.3416588197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Positive Dental Clinic And Root Canal Centre",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117063503636958948516\">Positive Dental Clinic And Root Canal Centre</a>"
+        ],
+        "photo_reference": "AdCG2DO3aoPfO-tjRPuTT8VkCiJ_mt6rd4t_dw0N1W8fCLDydLOeKxvxGjRg1X2vQnoZuZ3Yg3x5GWj5z_6udWDYKpkzJJuriSUXdwNIh8BkPCy9rHGBberFW1M6CaogaEYVV016wVdppE-j8laA96-YLziFLhbuvAwFeMsWeFxfPKezllJf",
+        "width": 4608
+      }
+    ],
+    "place_id": "ChIJd24H6qCi2zsRFkf7S9oFAhc",
+    "plus_code": {
+      "compound_code": "V8QV+66 Chhatrapati Sambhajinagar (Aurangabad), Maharashtra, India",
+      "global_code": "7JFQV8QV+66"
+    },
+    "rating": 5,
+    "reference": "ChIJd24H6qCi2zsRFkf7S9oFAhc",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "Al-meer school, shariff colony, Roshan Gate Road, Chhatrapati Sambhajinagar (Aurangabad)"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 19.8883359,
+        "lng": 75.3440196
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 19.8897369802915,
+          "lng": 75.3453723302915
+        },
+        "southwest": {
+          "lat": 19.8870390197085,
+          "lng": 75.34267436970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr.m.a Pasha Dental Clinic",
+    "place_id": "ChIJX0KXH6Gi2zsRHsB-Cm-Ceq4",
+    "plus_code": {
+      "compound_code": "V8QV+8J Chhatrapati Sambhajinagar (Aurangabad), Maharashtra, India",
+      "global_code": "7JFQV8QV+8J"
+    },
+    "rating": 5,
+    "reference": "ChIJX0KXH6Gi2zsRHsB-Cm-Ceq4",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 1,
+    "vicinity": "Roshan Gate, Jaswantpura, Chhatrapati Sambhajinagar (Aurangabad)"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 19.8652313,
+        "lng": 75.3492122
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 19.8666152802915,
+          "lng": 75.3504851802915
+        },
+        "southwest": {
+          "lat": 19.8639173197085,
+          "lng": 75.3477872197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. Gyansudha D. Gawali - Best Dentist in Aurangabad",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 900,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112660033382782052927\">Dr. Gyansudha D. Gawali - Best Dentist in Aurangabad</a>"
+        ],
+        "photo_reference": "AdCG2DPbUPtToAaM3ppjwFcti6veddFTCmibLaBAT_lAoa6RqfL4rJS4_CNYQ3xek1mWfeYiIKO3oSFp7vnIf4_hH2sze6_kuYvenMWj-9SX4YQ3IlRFWvhINZlV2MHeTHIjmjesiLMqjooKZQQA2I3WwVF2GrVd9r9hhw0v2XHFZXApkW_S",
+        "width": 1200
+      }
+    ],
+    "place_id": "ChIJr16AFZKj2zsRsq45cmvqvoY",
+    "plus_code": {
+      "compound_code": "V88X+3M Chhatrapati Sambhajinagar (Aurangabad), Maharashtra, India",
+      "global_code": "7JFQV88X+3M"
+    },
+    "rating": 5,
+    "reference": "ChIJr16AFZKj2zsRsq45cmvqvoY",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 2,
+    "vicinity": "Shop No. 6, Disha Sankul Complex, Dental Roots, near Reliance Mall, Garkheda, Chhatrapati Sambhajinagar (Aurangabad)"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 19.8651639,
+        "lng": 75.3491308
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 19.8665392802915,
+          "lng": 75.35042243029152
+        },
+        "southwest": {
+          "lat": 19.8638413197085,
+          "lng": 75.34772446970851
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dental Roots",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 900,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105343897053399687987\">Dental Roots</a>"
+        ],
+        "photo_reference": "AdCG2DMcEJadV2zvw4A2aNb-NjFYS1prPMsDyrN2taZJnPVnY6MzlY_J1jJmF0sYl5AKbMm6RBWYtkXBS4qh9Fcmxk52C6pIF2xjQN2Pzvm6qmYrLQb5QDA5DYG6yU2Xbk4CTuKK8tbHRIeJ7GSOw1FLbLbQ6HIJ8iU4d4RbgUiXVUBvI0ua",
+        "width": 1200
+      }
+    ],
+    "place_id": "ChIJC7fFqg6j2zsRG69QvHVv9Xw",
+    "plus_code": {
+      "compound_code": "V88X+3M Chhatrapati Sambhajinagar (Aurangabad), Maharashtra, India",
+      "global_code": "7JFQV88X+3M"
+    },
+    "rating": 5,
+    "reference": "ChIJC7fFqg6j2zsRG69QvHVv9Xw",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 5,
+    "vicinity": "Shop No. 6, Disha Sankul Complex, near Reliance Mall, Garkheda, Chhatrapati Sambhajinagar (Aurangabad)"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 19.88826989999999,
+        "lng": 75.33909469999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 19.8896188302915,
+          "lng": 75.3404442802915
+        },
+        "southwest": {
+          "lat": 19.88692086970849,
+          "lng": 75.33774631970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "MEHER DENTAL CLINIC",
+    "place_id": "ChIJEYtgOgqY2zsRcdMURTRjans",
+    "plus_code": {
+      "compound_code": "V8QQ+8J Chhatrapati Sambhajinagar (Aurangabad), Maharashtra, India",
+      "global_code": "7JFQV8QQ+8J"
+    },
+    "reference": "ChIJEYtgOgqY2zsRcdMURTRjans",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "India"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 19.8828435,
+        "lng": 75.35482999999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 19.8841569802915,
+          "lng": 75.3561531302915
+        },
+        "southwest": {
+          "lat": 19.8814590197085,
+          "lng": 75.35345516970848
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Perfect Smile Dental Clinic",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 1023,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105088115730271109476\">Perfect Smile Dental Clinic near Cidco n6 Aurangabad</a>"
+        ],
+        "photo_reference": "AdCG2DNrG9JGSNMF0blZI2fIj49sng5n0nPP6KfmQlwuUZ8JF6bh0SMnGxLDAe3vHYEDectqBN45aS1k8z42a4zAG11AALZfhVHWjQF-zk4vrYI1FnmqSzzgZs_1j5zLIN2lXmtacSqdZpMR4-M2ow2UvGlLN5qYpMTJHzHqjLU4-wL3dvIM",
+        "width": 760
+      }
+    ],
+    "place_id": "ChIJYcqla7ij2zsRnHcCzSfuLRY",
+    "plus_code": {
+      "compound_code": "V9M3+4W Chhatrapati Sambhajinagar (Aurangabad), Maharashtra, India",
+      "global_code": "7JFQV9M3+4W"
+    },
+    "rating": 4.9,
+    "reference": "ChIJYcqla7ij2zsRnHcCzSfuLRY",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 110,
+    "vicinity": "near central octroi, Perfect Smile Dental Clinic, near central octroi, N-6, Cidco, Chhatrapati Sambhajinagar (Aurangabad)"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 19.8654846,
+        "lng": 75.3355906
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 19.8668284802915,
+          "lng": 75.33685243029151
+        },
+        "southwest": {
+          "lat": 19.8641305197085,
+          "lng": 75.3341544697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Abhi's Dental Clinic",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/102913819718957065461\">Abhi&#39;s Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DNLMP9DyiGfsCZBbvVre2nFWTJtoAgi_a2_t7RhHDsUZKv6L8NKCxLLwYpNxor-WlUfdjhtclUmpKt5UuBkIuIkTEVfb_Wfu31toSyxjpNdMlhjXj7pU8WlyyRTzXBGfRKaQpRSFnLIABMRPbNDtT8jLoCZthyoaQWoxQJwSYds-IfL",
+        "width": 3008
+      }
+    ],
+    "place_id": "ChIJJ1df7RWZ2zsReEU3Iwy-8wM",
+    "plus_code": {
+      "compound_code": "V88P+56 Shreya Nagar, New Usmanpura, Chhatrapati Sambhajinagar (Aurangabad), Maharashtra, India",
+      "global_code": "7JFQV88P+56"
+    },
+    "rating": 5,
+    "reference": "ChIJJ1df7RWZ2zsReEU3Iwy-8wM",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 16,
+    "vicinity": "95B, ShreeNidhi building, Ground floor, Plot no, besides Bilgee hospital, near Kalda corner, Shreya Nagar"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 19.8883939,
+        "lng": 75.3380707
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 19.8897828802915,
+          "lng": 75.33943198029151
+        },
+        "southwest": {
+          "lat": 19.8870849197085,
+          "lng": 75.33673401970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Manal Dental Clinic",
+    "place_id": "ChIJK-J30guY2zsRgx-vAwVT4KI",
+    "plus_code": {
+      "compound_code": "V8QQ+96 Chhatrapati Sambhajinagar (Aurangabad), Maharashtra, India",
+      "global_code": "7JFQV8QQ+96"
+    },
+    "reference": "ChIJK-J30guY2zsRgx-vAwVT4KI",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "India"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 19.8890018,
+        "lng": 75.3395955
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 19.8903495802915,
+          "lng": 75.3409500802915
+        },
+        "southwest": {
+          "lat": 19.8876516197085,
+          "lng": 75.3382521197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Subhan Allah Dental Clinic",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 607,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112949312392132121663\">Subhan Allah Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DPI2dSAPeQ77goJl5d8xwwA3Cy0iEVx-exKDAbCUfhIkdY2GErEoUY_aY8YukyyD9IJDXlHbjXtFrCtxsKcB2DhAV_dgoyzr1f_W8PmXnR--xu0B8mzIAR-KAx3fCa0Y0d-vEmt44-NDJqIlVluAmCCkkF_yxDzXwddy0QqWavMKALW",
+        "width": 1080
+      }
+    ],
+    "place_id": "ChIJIe2pNauZ2zsROwateyUzoEk",
+    "plus_code": {
+      "compound_code": "V8QQ+JR Chhatrapati Sambhajinagar (Aurangabad), Maharashtra, India",
+      "global_code": "7JFQV8QQ+JR"
+    },
+    "rating": 5,
+    "reference": "ChIJIe2pNauZ2zsROwateyUzoEk",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 5,
+    "vicinity": "near Kali Masjid T.T.S.(Ahle Sunnat Wa Jamaat)(Zohar-1:30, Juma-1:30), Shahbazaar, near Kali Masjid T.T.S.(Ahle Sunnat Wa Jamaat)(Zohar-1:30, Juma-1:30), Chhatrapati Sambhajinagar (Aurangabad)"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 19.8642852,
+        "lng": 75.3362393
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 19.8656042302915,
+          "lng": 75.3376511302915
+        },
+        "southwest": {
+          "lat": 19.86290626970849,
+          "lng": 75.3349531697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. Ankita Toshniwal",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100442225773381787716\">Dr. Ankita Toshniwal</a>"
+        ],
+        "photo_reference": "AdCG2DOFGQkRg2feW9xuE4GGTw3jYi0yjsnWbzxSXf8_ve5wsoMPPz5qLiWH77gzbdUgmk6b_-AS1AfL7SM-3-8e0CL3Akvq76gBvYXDsC62U-2uHQ4NHwHwggbZ86gCecbVK_eUpBDGuI-8B5R1uzHORNz7oPxZWh6f6KXI1G6byhrJj6aw",
+        "width": 4000
+      }
+    ],
+    "place_id": "ChIJIyxwwISZ2zsRoovYr9cgEgo",
+    "plus_code": {
+      "compound_code": "V87P+PF Chhatrapati Sambhajinagar (Aurangabad), Maharashtra, India",
+      "global_code": "7JFQV87P+PF"
+    },
+    "reference": "ChIJIyxwwISZ2zsRoovYr9cgEgo",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "Sahkar Nagar Chowk, near Ropalekar Hospital, in front of SBI bank, Dargah Road, Jyoti Nagar, Garkheda, Chhatrapati Sambhajinagar (Aurangabad)"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 19.8747272,
+        "lng": 75.32875
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 19.8760731302915,
+          "lng": 75.33003453029151
+        },
+        "southwest": {
+          "lat": 19.8733751697085,
+          "lng": 75.32733656970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr. Jagtap’s Dental Clinic",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 700,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/118102758469104500280\">Dr. Jagtap’s Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DP4ckXn89KX1G6Ctua8K5pKu_Bgn5uxj46PiXb_JevnqQTgSd1bOKHbR1dWvGnpQRxRVc6-Q0sRwQezHvEnaqWUcfeQQqAVmQTZTcU9QBKg3ik_sKowSbTHrdLwXLKkymNDqeEytTw5Z7VEgGwJpCzYNQCUhQdGYr8EDuh5q9hmJKlY",
+        "width": 1242
+      }
+    ],
+    "place_id": "ChIJY7xpoxWY2zsR5AL1TnekFAQ",
+    "plus_code": {
+      "compound_code": "V8FH+VG Chhatrapati Sambhajinagar (Aurangabad), Maharashtra, India",
+      "global_code": "7JFQV8FH+VG"
+    },
+    "rating": 5,
+    "reference": "ChIJY7xpoxWY2zsR5AL1TnekFAQ",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "hospital",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 39,
+    "vicinity": "Rushikesh Apartment, pushpanjali, near Hotel Pushpanjali, beside Hotel, Kranti Chowk, Chhatrapati Sambhajinagar (Aurangabad)"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 19.8880598,
+        "lng": 75.35073120000001
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 19.8894089802915,
+          "lng": 75.3520632802915
+        },
+        "southwest": {
+          "lat": 19.8867110197085,
+          "lng": 75.3493653197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "शहा क्लिनिक",
+    "place_id": "ChIJ60IaEKOi2zsRT-FsgkjkZaU",
+    "plus_code": {
+      "compound_code": "V9Q2+67 Chhatrapati Sambhajinagar (Aurangabad), Maharashtra, India",
+      "global_code": "7JFQV9Q2+67"
+    },
+    "reference": "ChIJ60IaEKOi2zsRT-FsgkjkZaU",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "India"
+  },
+  {
+    "business_status": "CLOSED_TEMPORARILY",
+    "geometry": {
+      "location": {
+        "lat": 19.8641457,
+        "lng": 75.3361657
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 19.8654480802915,
+          "lng": 75.33751033029151
+        },
+        "southwest": {
+          "lat": 19.8627501197085,
+          "lng": 75.33481236970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "orange dental clinic and skin hair and cosmetology clinic",
+    "permanently_closed": true,
+    "place_id": "ChIJ64eDl36Y2zsRTRHqW2hBWkg",
+    "plus_code": {
+      "compound_code": "V87P+MF Chhatrapati Sambhajinagar (Aurangabad), Maharashtra, India",
+      "global_code": "7JFQV87P+MF"
+    },
+    "reference": "ChIJ64eDl36Y2zsRTRHqW2hBWkg",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "hair_care",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "amarpreet Hotel, to, Durga Road, Sahakar Nagar, Chhatrapati Sambhajinagar (Aurangabad)"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 19.8795199,
+        "lng": 75.3290493
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 19.8809191802915,
+          "lng": 75.3304011302915
+        },
+        "southwest": {
+          "lat": 19.8782212197085,
+          "lng": 75.32770316970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dentosquare charitable Dental hospital and Implant centre",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 1543,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110252394170447982311\">Dentosquare charitable Dental hospital and Implant centre</a>"
+        ],
+        "photo_reference": "AdCG2DMhl2BwKKbIpg7kh8IRg9vXRU1PXfRpgg3c6NCKjQg4XC8uuciGS96UUMDHoabWNvh0CRNv1T3RGSzPDZLz1Ro-ec8WFd7VgLMF8F-cFDBX2v40HdVNCa-j5Fr20l8mwPk_5I64nzXMOVKgY6pD3W6Rv3AZRvhEHCKu01zHUrUroe8c",
+        "width": 1987
+      }
+    ],
+    "place_id": "ChIJFz2MhLuZ2zsRVtLxm_A7-VM",
+    "plus_code": {
+      "compound_code": "V8HH+RJ Chhatrapati Sambhajinagar (Aurangabad), Maharashtra, India",
+      "global_code": "7JFQV8HH+RJ"
+    },
+    "rating": 5,
+    "reference": "ChIJFz2MhLuZ2zsRVtLxm_A7-VM",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 13,
+    "vicinity": "1st floor, sabzi mandi, above xiaomi, near bank of Baroda, Paithan Gate, Chhatrapati Sambhajinagar (Aurangabad)"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 19.8790978,
+        "lng": 75.3289411
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 19.8804583802915,
+          "lng": 75.3302379302915
+        },
+        "southwest": {
+          "lat": 19.8777604197085,
+          "lng": 75.32753996970848
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "ORTHODONTIC CENTRE DR. JEEVAN M. KHATRI",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 1200,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/108680179358012630007\">ORTHODONTIC CENTRE DR. JEEVAN M. KHATRI</a>"
+        ],
+        "photo_reference": "AdCG2DMS07az0PIhaNe_5D752A1_jmYDoCHevIQ_kYYBbeqPM5ePOuGheqiRfbapx62OWgkbeekLFwfJz7iJ-a6mp4c-JPt8SVHjFRRbVjh17vrz9vlEAP6ig4C7n7xDfu00rsimD3JlQ6umhqCJW6uJM1IE4irTO8U6Mbdoxo4IT0rP2Gms",
+        "width": 1600
+      }
+    ],
+    "place_id": "ChIJv-jwfW2Y2zsRugrVy3LOUYE",
+    "plus_code": {
+      "compound_code": "V8HH+JH Chhatrapati Sambhajinagar (Aurangabad), Maharashtra, India",
+      "global_code": "7JFQV8HH+JH"
+    },
+    "rating": 3.4,
+    "reference": "ChIJv-jwfW2Y2zsRugrVy3LOUYE",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 5,
+    "vicinity": "near SATYA ELECTRICALS, FIRST FLOOR SODHI MARKET, near SATYA ELECTRICALS, Paithan Gate, Chhatrapati Sambhajinagar (Aurangabad)"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 19.862678,
+        "lng": 75.3399029
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 19.8640992802915,
+          "lng": 75.34127243029151
+        },
+        "southwest": {
+          "lat": 19.8614013197085,
+          "lng": 75.33857446970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Shreekrishna Dental And cosmetic clinic",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 2576,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116204630715283641354\">Darshna Solapure</a>"
+        ],
+        "photo_reference": "AdCG2DOmdx-AxMaPYmrdrDmSmuPh3YD1hGYcl4TyRSqaogQBwmTY75sayyaAHYowv5OiueplQ6j1gZ_aA7on9LpoNtwaWUlZHGVEN_ObUHhGE_k2oSAuzrcMhYR36XvlSLE9fdD_ces7hpP4g94pMWd9nQkTzA3vL6sS0EiZjlckxEcjl45C",
+        "width": 3728
+      }
+    ],
+    "place_id": "ChIJFe35MbmZ2zsR8JyvFOGKtVI",
+    "plus_code": {
+      "compound_code": "V87Q+3X Chhatrapati Sambhajinagar (Aurangabad), Maharashtra, India",
+      "global_code": "7JFQV87Q+3X"
+    },
+    "rating": 5,
+    "reference": "ChIJFe35MbmZ2zsR8JyvFOGKtVI",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 3,
+    "vicinity": "1st floor, flat no.20, sai heritage, opp. Riddhi siddhi hall, near undian oil petrol pump, Ulkanagari, Chhatrapati Sambhajinagar (Aurangabad)"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 19.8875475,
+        "lng": 75.334576
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 19.8888921302915,
+          "lng": 75.33600463029151
+        },
+        "southwest": {
+          "lat": 19.8861941697085,
+          "lng": 75.3333066697085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dentist",
+    "place_id": "ChIJafVxx7-Z2zsRsx6VfGonyCM",
+    "reference": "ChIJafVxx7-Z2zsRsx6VfGonyCM",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "vicinity": "V8QM+2VF, opposite H.P Petrol Pump, Near Gandhi Putla, Mahavir Chowk, Shahgunj, Chhatrapati Sambhajinagar (Aurangabad)"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 19.8618867,
+        "lng": 75.3425905
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 19.8631913302915,
+          "lng": 75.34392078029151
+        },
+        "southwest": {
+          "lat": 19.8604933697085,
+          "lng": 75.3412228197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Dr Lokhande's Kids & Braces Dental Clinic",
+    "photos": [
+      {
+        "height": 1280,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/109251739088528737917\">Dr Lokhande&#39;s Kids &amp; Braces Dental Clinic - Kid&#39;s Dental care &amp; Orthodontic Centre</a>"
+        ],
+        "photo_reference": "AdCG2DN8TkyH7-vSMdGtSWkfizuK9x-PogQuaQPdKDhcJP6mbsV4ot1EQ07v7m81-iDxrYryFSZ3E7NVYKZ9_g3ikGTpWlZglRLYeAXeCdq7fwMLWv3T68mHkGMKUsvusqDNUBh58cM8YLCBGQaDTXcxvyUHssafO8HboBZ6epZn8PimsGWt",
+        "width": 960
+      }
+    ],
+    "place_id": "ChIJi8lkqhyj2zsRUNboZWovgL0",
+    "plus_code": {
+      "compound_code": "V86V+Q2 Chhatrapati Sambhajinagar (Aurangabad), Maharashtra, India",
+      "global_code": "7JFQV86V+Q2"
+    },
+    "rating": 5,
+    "reference": "ChIJi8lkqhyj2zsRUNboZWovgL0",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 9,
+    "vicinity": "Shop No.10, near August Homes, Ulkanagari, Chhatrapati Sambhajinagar (Aurangabad)"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 19.8850001,
+        "lng": 75.33111459999999
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 19.8863488802915,
+          "lng": 75.3324651302915
+        },
+        "southwest": {
+          "lat": 19.88365091970849,
+          "lng": 75.32976716970849
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Happy Dental Clinic",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 1280,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/112712972029562999828\">Happy Dental Clinic</a>"
+        ],
+        "photo_reference": "AdCG2DNqfVqM1jSvjYjo82hGIdGnjvWGpHY49falVKAzxD1LmiXwU3TRhuunz2c8BWrvFxYpO2yhG_UbbdUlltgW6kaRKmI0i1I_QcMU7N52asT9_CY-H1JCzUWNTH8_Wy_GA5zXSSpjuEvhH4b6i3_YvzI-VckWtdZNZZg9dTqcggnW7ruR",
+        "width": 1280
+      }
+    ],
+    "place_id": "ChIJ07ZwQCnbV4ER4peAmSenGDY",
+    "plus_code": {
+      "compound_code": "V8PJ+2C Chhatrapati Sambhajinagar (Aurangabad), Maharashtra, India",
+      "global_code": "7JFQV8PJ+2C"
+    },
+    "rating": 5,
+    "reference": "ChIJ07ZwQCnbV4ER4peAmSenGDY",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 8,
+    "vicinity": "near Ram Mandir, Nagarkhana Galli, near Ram Mandir, Supari Hanuman Road, Chhatrapati Sambhajinagar (Aurangabad)"
+  },
+  {
+    "business_status": "OPERATIONAL",
+    "geometry": {
+      "location": {
+        "lat": 19.8713129,
+        "lng": 75.328504
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 19.87264363029151,
+          "lng": 75.32988838029151
+        },
+        "southwest": {
+          "lat": 19.8699456697085,
+          "lng": 75.3271904197085
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+    "icon_background_color": "#7B9EB0",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+    "name": "Balkrishna Oralcare Centre",
+    "opening_hours": {
+      "open_now": false
+    },
+    "photos": [
+      {
+        "height": 3456,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/117500787987822927066\">Oralcare co in</a>"
+        ],
+        "photo_reference": "AdCG2DMRPCwru8oT87p5BLJO5OhPfpKoX9c4uUlm_0nNYelRO7BFQTXraMzP_Zu_8YzxTNIoUuCpLIrRBGGwibue1WQiUfGuNhiDY7bOwaqxfMiY5eqUltHV1ylDhA7Ho0mm0zjQC91mYhlJNU2eOVwjIn7jKOpg21NCLCu4_YFM9NgkdO8l",
+        "width": 5184
+      }
+    ],
+    "place_id": "ChIJcVY11kyZ2zsRx3aT_pdV0l8",
+    "plus_code": {
+      "compound_code": "V8CH+GC Chhatrapati Sambhajinagar (Aurangabad), Maharashtra, India",
+      "global_code": "7JFQV8CH+GC"
+    },
+    "rating": 4.9,
+    "reference": "ChIJcVY11kyZ2zsRx3aT_pdV0l8",
+    "scope": "GOOGLE",
+    "types": [
+      "dentist",
+      "doctor",
+      "health",
+      "point_of_interest",
+      "establishment"
+    ],
+    "user_ratings_total": 120,
+    "vicinity": "Shop No. 2 & 3, SPS Square Building, behind Hotel Swad, near Deogiri Bank, New Usmanpura, Chhatrapati Sambhajinagar (Aurangabad)"
+  }
+]
