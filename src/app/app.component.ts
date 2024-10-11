@@ -1,4 +1,4 @@
-import { Component, ViewChild } from '@angular/core';
+import { Component, OnInit, ViewChild } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
 import { CommonModule } from '@angular/common';
 
@@ -39,7 +39,7 @@ const materialComponents = [
   templateUrl: './app.component.html',
   styleUrl: './app.component.css',
 })
-export class AppComponent {
+export class AppComponent implements OnInit {
   showFiller = false;
   title = 'city-viewer';
 
@@ -47,12 +47,15 @@ export class AppComponent {
   cityList: ICity[] = [];
 
   @ViewChild('token_input') tokenInput!: HTMLInputElement;
+  @ViewChild('clinic_list') clinicListEl!: ClinicTableComponent;
 
   token: string = '';
 
   constructor() {
     this.loadCityList();
-    localStorage.setItem('API_KEY', '');
+  }
+
+  ngOnInit() {
   }
 
   loadCityList() {
@@ -62,8 +65,6 @@ export class AppComponent {
       })
       .then((data) => {
         this.cityList = data.cities;
-        console.log(this.cityList);
-
       });
   }
 
@@ -74,6 +75,15 @@ export class AppComponent {
   updateToken() {
     localStorage.setItem('API_KEY', this.token);
   }
+
+  exportData() {
+    this.clinicListEl.exportToCSV();
+  }
+
+  importData() {
+    // this.clinicListEl.importFromCSV();
+  }
+
 }
 
 interface ICity {

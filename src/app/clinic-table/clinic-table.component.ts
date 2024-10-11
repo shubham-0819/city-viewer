@@ -1,8 +1,11 @@
 import { CommonModule } from '@angular/common';
 import { Component, Input, OnChanges, OnInit, SimpleChanges, ViewChild } from '@angular/core';
+import { MatDialog } from '@angular/material/dialog';
+import { MatButtonModule } from '@angular/material/button';
 import { MatIcon } from '@angular/material/icon';
 import { AgGridAngular } from 'ag-grid-angular'; // Angular Data Grid Component
 import { ColDef } from 'ag-grid-community';
+import { MapDialogComponent } from '../map-dialog/map-dialog.component';
 
 @Component({
   selector: 'app-clinic-table',
@@ -10,7 +13,8 @@ import { ColDef } from 'ag-grid-community';
   imports: [
     AgGridAngular,
     CommonModule,
-    MatIcon
+    MatIcon,
+    MatButtonModule
   ],
   templateUrl: './clinic-table.component.html',
   styleUrl: './clinic-table.component.css',
@@ -28,48 +32,64 @@ export class ClinicTableComponent implements OnInit, OnChanges {
   clinicList: any[] = [];
   colDefs: ColDef[] = [
     {
-      field: 'name',
-      filter: true,
+      headerName: 'S.No',
+      valueGetter: (params: any) => {
+      return params.node.rowIndex + 1;
+      },
+      width: 50,
+      // onSortChanged(e: AgGridEvent) {
+      //   e.api.refreshCells();
+      // }
     },
 
     {
+      field: 'name',
+      filter: true,
+      onCellClicked: (params: any) => {
+        // this.openInGoogleMaps(params.data.placeDetail.place_id);
+        this.openGoogleMapDialog(params.data);
+      }
+    },
+    {
       field: 'rating',
       filter: true,
+      editable: true,
       width: 100,
     },
 
     {
       field: 'user_ratings_total',
       filter: true,
+      editable: true,
       width: 100,
     },
 
     {
       field: 'formatted_address',
       filter: true,
+      editable: true,
     },
 
     {
       field: 'formatted_phone_number',
       filter: true,
+      editable: true,
     },
     {
       field: 'Action',
       filter: false,
       sortable: false,
-      cellRenderer: (params:any) => {
-        return `<button (click)="openPhotoViewer()">View Photos (${params.data.photos?.length || 0})</button>`;
+      cellRenderer: (params: any) => {
+        return `<button>View Photos (${params.data.photos?.length || 0})</button>`;
       },
-      onCellClicked: (params:any) => {
+      onCellClicked: (params: any) => {
         this.openPhotoViewer(params);
       }
-
-    }
-
+    },
   ];
 
 
-  constructor() { }
+  constructor(public dialog: MatDialog) { }
 
   ngOnChanges(changes: SimpleChanges): void {
     if (changes['city']) {
@@ -81,7 +101,24 @@ export class ClinicTableComponent implements OnInit, OnChanges {
   ngOnInit() {
     const city = this.city;
     this.loadClinicList(city);
+    if (!this.selectedCity) {
+      this.loadClinicData();
+    }
   }
+
+
+  loadClinicData() {
+    fetch('assets/data/all-cities.json')
+      .then((response) => {
+        return response.json();
+      })
+      .then((data) => {
+        this.clinicList = data;
+      }).catch((error) => {
+        console.error('Error:', error);
+      });
+  }
+
 
   loadClinicList(city: string) {
     console.log("Clinic List for ", city);
@@ -135,5 +172,33 @@ export class ClinicTableComponent implements OnInit, OnChanges {
     const token = localStorage.getItem('API_KEY');
     return token;
   }
+
+  openGoogleMapDialog(data:any) {
+
+    const dialogRef = this.dialog.open(MapDialogComponent, {
+      width: '800px',
+      data: { ...data }
+    });
+
+    dialogRef.afterClosed().subscribe(result => {
+      // console.log(`Dialog result: ${result}`);
+    });
+  }
+
+  exportToCSV() {
+   this.grid.api.exportDataAsCsv();
+  }
+
+  importFromCSV(csv:any) {
+    // this.grid.api.
+  }
+
+
+  openInGoogleMaps(place_id: string) {
+    const url = `https://www.google.com/maps/place/?q=place_id:${place_id}`;
+    window.open(url, '_blank');
+  }
+
+
 
 }

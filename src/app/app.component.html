@@ -4,12 +4,20 @@
       <button class="mr-2" mat-button (click)="drawer.toggle()">
         <mat-icon>menu</mat-icon>
       </button>
-      <span>DIP </span>
+      <span class="font-normal">DIP </span>
+      <span class="text-sm font-normal ml-6">
+        {{ selectedCity || 'Global' }}
+      </span>
     </div>
 
-    <input
-      class="text-sm font-normal p-1 rounded" 
-      #token_input [(ngModel)]="token" (ngModelChange)="updateToken()" type="text" placeholder="Enter Access token">
+    <div class="flex flex-row items-center gap-2">
+      <!-- <button mat-flat-button (click)="importData()" >Import</button> -->
+      <button mat-flat-button (click)="exportData()" >Export</button>
+
+      <input
+        class="text-sm font-normal p-1 rounded"
+        #token_input [(ngModel)]="token" (ngModelChange)="updateToken()" type="text" placeholder="Enter Access token">
+    </div>
   </mat-toolbar>
 
   <mat-drawer-container class="flex-1" autosize>
@@ -22,7 +30,7 @@
 
       </div>
     </mat-drawer>
-    <app-clinic-table [city]="selectedCity">
+    <app-clinic-table #clinic_list [city]="selectedCity">
     </app-clinic-table>
   </mat-drawer-container>
 </div>

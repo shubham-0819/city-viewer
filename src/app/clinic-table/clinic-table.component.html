@@ -1,4 +1,9 @@
-<ag-grid-angular #clinicGrid class="ag-theme-quartz w-full h-full" [rowData]="clinicList" [columnDefs]="colDefs" />
+<ag-grid-angular
+  #clinicGrid
+  class="ag-theme-quartz w-full h-full"
+  [rowData]="clinicList"
+  [columnDefs]="colDefs"
+  />
 
 <div *ngIf="isPhotoViewerOpen && selectedCity" class="shadow-md border z-10 photo-viewer flex flex-col absolute top-0 right-0 h-full w-[400px] bg-slate-100 ">
   <div class="p-2 header flex flex-row justify-between items-center w-full h-12 bg-slate-300">

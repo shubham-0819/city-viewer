@@ -1,0 +1,14 @@
+<h2 mat-dialog-title>{{placeName}}</h2>
+<mat-dialog-content class="mat-typography">
+  <iframe
+    width="750"
+    height="400"
+    frameborder="0"
+    style="border:0"
+    referrerpolicy="no-referrer-when-downgrade"
+    [src]="sanitizedUrl">
+  </iframe>
+</mat-dialog-content>
+<mat-dialog-actions align="end">
+  <button mat-button mat-dialog-close>Close</button>
+</mat-dialog-actions>
