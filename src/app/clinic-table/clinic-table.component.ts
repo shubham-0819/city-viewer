@@ -58,7 +58,7 @@ export class ClinicTableComponent implements OnInit, OnChanges {
       filter: false,
       sortable: false,
       cellRenderer: (params:any) => {
-        return `<button (click)="openPhotoViewer()">View Photos</button>`;
+        return `<button (click)="openPhotoViewer()">View Photos (${params.data.photos?.length || 0})</button>`;
       },
       onCellClicked: (params:any) => {
         this.openPhotoViewer(params);
