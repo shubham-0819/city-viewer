@@ -14,6 +14,8 @@ import { MatIconModule } from '@angular/material/icon';
 import { CityDetailComponent } from './city-detail/city-detail.component';
 import { ClinicTableComponent } from './clinic-table/clinic-table.component';
 import { FormsModule } from '@angular/forms';
+import { AppSettingsComponent } from './app-settings/app-settings.component';
+import { MatDialog } from '@angular/material/dialog';
 
 const materialComponents = [
   MatToolbarModule,
@@ -22,6 +24,7 @@ const materialComponents = [
   MatButtonModule,
   MatIconButton,
   MatIconModule,
+  MatIconModule
 ];
 
 @Component({
@@ -33,7 +36,8 @@ const materialComponents = [
     CityDetailComponent,
     ClinicTableComponent,
     FormsModule,
-     ...materialComponents
+    AppSettingsComponent,
+    ...materialComponents
   ],
   providers: [],
   templateUrl: './app.component.html',
@@ -51,7 +55,9 @@ export class AppComponent implements OnInit {
 
   token: string = '';
 
-  constructor() {
+  constructor(
+    public dialog: MatDialog
+  ) {
     this.loadCityList();
   }
 
@@ -68,7 +74,7 @@ export class AppComponent implements OnInit {
       });
   }
 
-  viewCity(city:any){
+  viewCity(city: any) {
     this.selectedCity = city.name;
   }
 
@@ -82,6 +88,19 @@ export class AppComponent implements OnInit {
 
   importData() {
     // this.clinicListEl.importFromCSV();
+  }
+
+  openSettings() {
+    this.dialog.open(AppSettingsComponent, {
+      width: '600px',
+      height: '400px',
+      data: { token: this.token }
+    }).afterClosed().subscribe(result => {
+      if (result) {
+        // this.token = result;
+        // this.updateToken();
+      }
+    })
   }
 
 }

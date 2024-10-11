@@ -13,7 +13,7 @@
     <div class="flex flex-row items-center gap-2">
       <!-- <button mat-flat-button (click)="importData()" >Import</button> -->
       <button mat-flat-button (click)="exportData()" >Export</button>
-
+      <mat-icon (click)="openSettings()" class="cursor-pointer" color="primary">settings</mat-icon>
       <input
         class="text-sm font-normal p-1 rounded"
         #token_input [(ngModel)]="token" (ngModelChange)="updateToken()" type="text" placeholder="Enter Access token">

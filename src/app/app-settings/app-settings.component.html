@@ -1,0 +1,12 @@
+<h2 mat-dialog-title>Settings</h2>
+<mat-dialog-content class="mat-typography">
+  <p>Access token</p>
+  <input
+    class="text-sm font-normal p-1 border border-1 rounded outline-1 outline-orange-300"
+    #token_input [(ngModel)]="appSettings.token">
+
+</mat-dialog-content>
+<mat-dialog-actions align="end">
+  <button mat-button mat-dialog-close>Cancel</button>
+  <button mat-flat-button color="primary" [mat-dialog-close]="true" cdkFocusInitial>Save</button>
+</mat-dialog-actions>
