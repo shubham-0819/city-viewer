@@ -27,12 +27,12 @@ export class MapDialogComponent {
     private sanitizer: DomSanitizer
   ) {
     this.API_KEY = this.appStore.accessToken();
-    this.placeUrl = `https://www.google.com/maps/embed/v1/place?key=${this.API_KEY}&q=place_id:${data.placeDetail.place_id}`;
+    this.placeUrl = `https://www.google.com/maps/embed/v1/place?key=${this.API_KEY}&q=place_id:${data.place_id}`;
 
     this.sanitizedUrl = this.sanitizer.bypassSecurityTrustResourceUrl(
       this.placeUrl
     );
-    this.placeId = data.placeDetail.place_id;
+    this.placeId = data.place_id;
     this.placeName = data.name;
   }
 }
