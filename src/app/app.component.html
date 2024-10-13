@@ -5,32 +5,52 @@
         <mat-icon>menu</mat-icon>
       </button>
       <span class="font-normal">DIP </span>
-      <span class="text-sm font-normal ml-6">
-        {{ selectedCity || 'Global' }}
+      <span *ngIf="!isLocalUpload" class="text-sm font-normal ml-6">
+        {{ selectedCity || "Global" }}
+      </span>
+      <span *ngIf="isLocalUpload" class="text-sm font-normal ml-6">
+        {{ uploadedFilename }}
       </span>
     </div>
 
     <div class="flex flex-row items-center gap-2">
       <!-- <button mat-flat-button (click)="importData()" >Import</button> -->
-      <button mat-flat-button (click)="exportData()" >Export</button>
-      <mat-icon (click)="openSettings()" class="cursor-pointer" color="primary">settings</mat-icon>
-      <input
-        class="text-sm font-normal p-1 rounded"
-        #token_input [(ngModel)]="token" (ngModelChange)="updateToken()" type="text" placeholder="Enter Access token">
+      <mat-icon
+        matTooltip="Upload"
+        (click)="importData()"
+        class="cursor-pointer"
+        color="primary"
+        >upload</mat-icon
+      >
+      <button mat-button [matMenuTriggerFor]="menu">
+        <mat-icon matTooltip="download" class="cursor-pointer" color="primary"
+          >download</mat-icon
+        >
+      </button>
+      <mat-menu #menu="matMenu">
+        <button mat-menu-item (click)="exportData()">CSV</button>
+        <button mat-menu-item (click)="exportDataJSON()">JSON</button>
+      </mat-menu>
+
+      <mat-icon (click)="openSettings()" class="cursor-pointer" color="primary"
+        >settings</mat-icon
+      >
     </div>
   </mat-toolbar>
 
   <mat-drawer-container class="flex-1" autosize>
     <mat-drawer #drawer mode="side">
-
       <div class="flex flex-col">
-        <button class="w-48 p-2" *ngFor="let city of cityList" (click)="viewCity(city)" mat-button>
+        <button
+          class="w-48 p-2"
+          *ngFor="let city of cityList"
+          (click)="viewCity(city)"
+          mat-button
+        >
           <span>{{ city.name }}</span>
         </button>
-
       </div>
     </mat-drawer>
-    <app-clinic-table #clinic_list [city]="selectedCity">
-    </app-clinic-table>
+    <app-clinic-table #clinic_list [city]="selectedCity"> </app-clinic-table>
   </mat-drawer-container>
 </div>

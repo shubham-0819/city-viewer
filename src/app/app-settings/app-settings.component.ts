@@ -1,8 +1,9 @@
 import { CommonModule } from '@angular/common';
-import { Component, Inject, OnInit } from '@angular/core';
+import { Component, inject, Inject, OnInit } from '@angular/core';
 import { FormsModule } from '@angular/forms';
 import { MatButton } from '@angular/material/button';
 import { MAT_DIALOG_DATA, MatDialog, MatDialogModule } from '@angular/material/dialog';
+import { AppStore } from '../app-state';
 
 
 @Component({
@@ -19,8 +20,9 @@ import { MAT_DIALOG_DATA, MatDialog, MatDialogModule } from '@angular/material/d
 })
 export class AppSettingsComponent implements OnInit {
 
+  appStore = inject(AppStore);
   appSettings: any = {
-    token: '',
+    token: this.appStore.accessToken()
   }
 
   constructor(
@@ -30,6 +32,11 @@ export class AppSettingsComponent implements OnInit {
 
   closeDialog(): void {
     // this.dialogRef.close();
+  }
+
+  saveSettings(): void {
+    const { token } = this.appSettings;
+    this.appStore.setAccessToken(token);
   }
 
   ngOnInit(): void {

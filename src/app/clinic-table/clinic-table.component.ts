@@ -1,27 +1,29 @@
 import { CommonModule } from '@angular/common';
-import { Component, Input, OnChanges, OnInit, SimpleChanges, ViewChild } from '@angular/core';
+import {
+  Component,
+  inject,
+  Input,
+  OnChanges,
+  OnInit,
+  SimpleChanges,
+  ViewChild,
+} from '@angular/core';
 import { MatDialog } from '@angular/material/dialog';
 import { MatButtonModule } from '@angular/material/button';
 import { MatIcon } from '@angular/material/icon';
 import { AgGridAngular } from 'ag-grid-angular'; // Angular Data Grid Component
 import { ColDef } from 'ag-grid-community';
 import { MapDialogComponent } from '../map-dialog/map-dialog.component';
+import { AppStore } from '../app-state';
 
 @Component({
   selector: 'app-clinic-table',
   standalone: true,
-  imports: [
-    AgGridAngular,
-    CommonModule,
-    MatIcon,
-    MatButtonModule
-  ],
+  imports: [AgGridAngular, CommonModule, MatIcon, MatButtonModule],
   templateUrl: './clinic-table.component.html',
   styleUrl: './clinic-table.component.css',
 })
 export class ClinicTableComponent implements OnInit, OnChanges {
-
-
   @ViewChild('clinicGrid') grid!: AgGridAngular;
   @Input() city: string = 'Dehradun';
 
@@ -29,26 +31,27 @@ export class ClinicTableComponent implements OnInit, OnChanges {
   activeClinicPhotos: string[] = [];
   selectedCity: any;
 
+  appStore = inject(AppStore);
+
   clinicList: any[] = [];
   colDefs: ColDef[] = [
     {
       headerName: 'S.No',
       valueGetter: (params: any) => {
-      return params.node.rowIndex + 1;
+        return params.node.rowIndex + 1;
       },
       width: 50,
-      // onSortChanged(e: AgGridEvent) {
-      //   e.api.refreshCells();
-      // }
     },
-
+    {
+      field: 'place_id',
+      filter: true,
+      width: 100,
+    },
     {
       field: 'name',
       filter: true,
-      onCellClicked: (params: any) => {
-        // this.openInGoogleMaps(params.data.placeDetail.place_id);
-        this.openGoogleMapDialog(params.data);
-      }
+      editable: true,
+
     },
     {
       field: 'rating',
@@ -69,9 +72,13 @@ export class ClinicTableComponent implements OnInit, OnChanges {
       filter: true,
       editable: true,
     },
-
     {
       field: 'formatted_phone_number',
+      filter: true,
+      editable: true,
+    },
+    {
+      field: 'website',
       filter: true,
       editable: true,
     },
@@ -80,16 +87,37 @@ export class ClinicTableComponent implements OnInit, OnChanges {
       filter: false,
       sortable: false,
       cellRenderer: (params: any) => {
-        return `<button>View Photos (${params.data.photos?.length || 0})</button>`;
+        return `<button>View Photos (${
+          params.data.photos?.length || 0
+        })</button>`;
       },
       onCellClicked: (params: any) => {
         this.openPhotoViewer(params);
-      }
+      },
     },
+    {
+      field: "ViewOnMap",
+      filter: false,
+      sortable: false,
+      cellRenderer: (params: any) => {
+        return `<button>View on Map</button>`;
+      },
+      onCellClicked: (params: any) => {
+        this.openGoogleMapDialog(params.data);
+      },
+    },
+    {
+      field: "Remarks",
+      filter: true,
+      sortable: true,
+      editable: true,
+      cellEditor: "agLargeTextCellEditor",
+      cellEditorPopup: true,
+    }
+    
   ];
 
-
-  constructor(public dialog: MatDialog) { }
+  constructor(public dialog: MatDialog) {}
 
   ngOnChanges(changes: SimpleChanges): void {
     if (changes['city']) {
@@ -100,31 +128,10 @@ export class ClinicTableComponent implements OnInit, OnChanges {
 
   ngOnInit() {
     const city = this.city;
-    this.loadClinicList(city);
-    if (!this.selectedCity) {
-      this.loadClinicData();
-    }
   }
-
-
-  loadClinicData() {
-    fetch('assets/data/all-cities.json')
-      .then((response) => {
-        return response.json();
-      })
-      .then((data) => {
-        this.clinicList = data;
-      }).catch((error) => {
-        console.error('Error:', error);
-      });
-  }
-
 
   loadClinicList(city: string) {
-    console.log("Clinic List for ", city);
-
     if (!city) {
-      // fetch all cities
       return;
     }
 
@@ -144,8 +151,7 @@ export class ClinicTableComponent implements OnInit, OnChanges {
   }
 
   viewPhoto(photo: any) {
-
-    console.log("View Photos", photo);
+    console.log('View Photos', photo);
   }
 
   openPhotoViewer(context: any) {
@@ -158,47 +164,56 @@ export class ClinicTableComponent implements OnInit, OnChanges {
     });
 
     this.activeClinicPhotos = photos;
-
   }
 
   createPhotoUrl(photo_reference: string) {
-    const API_KEY = this.getTokenFromLocalStorage();
+    const API_KEY = this.appStore.accessToken();
     const reference = photo_reference;
     const url = `https://maps.googleapis.com/maps/api/place/photo?maxwidth=400&photo_reference=${reference}&key=${API_KEY}`;
     return url;
   }
 
-  getTokenFromLocalStorage() {
-    const token = localStorage.getItem('API_KEY');
-    return token;
-  }
-
-  openGoogleMapDialog(data:any) {
-
+  openGoogleMapDialog(data: any) {
     const dialogRef = this.dialog.open(MapDialogComponent, {
       width: '800px',
-      data: { ...data }
+      data: { ...data },
     });
 
-    dialogRef.afterClosed().subscribe(result => {
+    dialogRef.afterClosed().subscribe((result) => {
       // console.log(`Dialog result: ${result}`);
     });
   }
 
   exportToCSV() {
-   this.grid.api.exportDataAsCsv();
+    this.grid.api.exportDataAsCsv();
   }
 
-  importFromCSV(csv:any) {
+  exportToJSON() {
+    // export clinic list as JSON
+    const data = JSON.stringify(this.clinicList);
+    const blob = new Blob([data], { type: 'application/json' });
+    const url = window.URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    a.href = url;
+    a.download = 'clinic-list.json';  // download file name
+    a.click();
+    // remove a tag
+    window.URL.revokeObjectURL(url);
+
+  }
+
+  updateClinicList(clinicList: any) {
+    this.clinicList = clinicList;
+    this.grid.api.redrawRows();
+
+  }
+
+  importFromCSV(csv: any) {
     // this.grid.api.
   }
-
 
   openInGoogleMaps(place_id: string) {
     const url = `https://www.google.com/maps/place/?q=place_id:${place_id}`;
     window.open(url, '_blank');
   }
-
-
-
 }
